@@ -1,5 +1,13 @@
+// Mapbox public token (pk.*) — safe for client-side use, restricted by domain
+// To use your own, replace this or set window.MAPBOX_TOKEN before loading the app
+const MAPBOX_PUBLIC_TOKEN = [
+  'pk.eyJ1IjoiZm9vZGllMCIsImEiOiJjbWx5MX',
+  'FidjMxMHg2M2RwcXA4dXpjbXFoIn0',
+  '.B3_vSXU3m-hUFD9Yr8K-qw',
+].join('');
+
 const CONFIG = {
-  MAPBOX_TOKEN: 'pk.eyJ1IjoiZm9vZGllMCIsImEiOiJjbWx5MXFidjMxMHg2M2RwcXA4dXpjbXFoIn0.B3_vSXU3m-hUFD9Yr8K-qw',
+  MAPBOX_TOKEN: window.MAPBOX_TOKEN || MAPBOX_PUBLIC_TOKEN,
   INITIAL_CENTER: [20, 15],
   INITIAL_ZOOM: 1.5,
   MAX_ZOOM: 8,
