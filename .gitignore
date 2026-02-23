@@ -1,0 +1,12 @@
+.DS_Store
+*.log
+node_modules/
+.env
+.env.local
+.claude/
+.playwright-mcp/
+*.swp
+*.swo
+*~
+.vscode/
+.idea/

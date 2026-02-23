@@ -1,0 +1,3460 @@
+{
+  "countries": [
+    {
+      "id": "840",
+      "iso_a3": "USA",
+      "name_en": "United States",
+      "mbti": "ESTP",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: IDV=91 (extremely high individualism), MAS=62 (competitive culture), UAI=46 (flexible risk-taking)",
+        "Governance: Federal system + free market economy; champions individual liberty and a hands-on, pragmatic spirit",
+        "Cultural consensus: Internationally recognized as action-oriented, direct, and adventurous"
+      ],
+      "dimension_analysis": {
+        "E_reason": "High individualism (IDV=91) encourages self-expression; open social culture; strong public speaking tradition",
+        "S_reason": "Pragmatist philosophical tradition; values practical results and action; 'Just do it' culture (though with some N-leaning innovation spirit)",
+        "T_reason": "High masculinity (MAS=62); competitive culture; achievement-oriented in business; rational decision-making tradition",
+        "P_reason": "Low uncertainty avoidance (UAI=46); entrepreneurial culture is flexible and ever-changing; individual freedom above all"
+      },
+      "justification": "A highly action-oriented risk-taker who champions individual freedom and pragmatism, with a 'just do it' execution style deeply ingrained in the culture."
+    },
+    {
+      "id": "156",
+      "iso_a3": "CHN",
+      "name_en": "China",
+      "mbti": "ENTJ",
+      "confidence": 5,
+      "sources": [
+        "Hofstede: LTO=87 (extremely high long-term orientation), PDI=80 (high power distance), MAS=66 (competitive culture)",
+        "Governance: Centralized authority + five-year plan system with strong strategic execution capability",
+        "Cultural consensus: Infrastructure powerhouse, strong planning ability, driven by collective goals"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Active participation in global affairs at the national level; strong diplomatic initiative; extroverted organizational behavior within a collectivist framework",
+        "N_reason": "Extremely high long-term orientation (LTO=87); tradition of strategic planning; massive investment in technological innovation",
+        "T_reason": "High masculinity (MAS=66); achievement-oriented; policy-making leans rational and pragmatic",
+        "J_reason": "High power distance (PDI=80); clear hierarchical structure; planned economy tradition; extremely strong execution"
+      },
+      "justification": "A fusion of strategic thinking and powerful execution, driven by collective goals and skilled at long-term planning and resource allocation."
+    },
+    {
+      "id": "392",
+      "iso_a3": "JPN",
+      "name_en": "Japan",
+      "mbti": "ISTJ",
+      "confidence": 5,
+      "sources": [
+        "Hofstede: MAS=95 (extremely high masculinity), UAI=92 (extremely high uncertainty avoidance), LTO=88 (high long-term orientation)",
+        "Governance: Meticulous bureaucratic system, lifetime employment, quality management culture",
+        "Cultural consensus: Extreme sense of order, detail-obsessed, rule-bound, culture of etiquette"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Socially reserved and understated atmosphere; strong sense of personal space; maintaining a low profile within the group",
+        "S_reason": "Extreme attention to detail; craftsmanship spirit; pragmatist tradition; quality control culture",
+        "T_reason": "Extremely high masculinity (MAS=95); work comes first; performance-oriented",
+        "J_reason": "Extremely high uncertainty avoidance (UAI=92); punctuality down to the second; strict adherence to rules"
+      },
+      "justification": "An extreme sense of order and attention to detail, deep respect for tradition and rules, with responsibility woven into the cultural DNA."
+    },
+    {
+      "id": "410",
+      "iso_a3": "KOR",
+      "name_en": "South Korea",
+      "mbti": "ESFJ",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: LTO=100 (world's highest long-term orientation), UAI=85 (high uncertainty avoidance), IDV=18 (collectivism)",
+        "Governance: Chaebol system + highly competitive education system, clearly stratified social hierarchy",
+        "Cultural consensus: Emphasis on face and social relationships, seniority culture, appearance management, K-pop globalization"
+      ],
+      "dimension_analysis": {
+        "E_reason": "K-pop and the Korean Wave spread outward energetically; rich socializing and networking culture; frequent group activities",
+        "S_reason": "High uncertainty avoidance (UAI=85); attention to external details and image management; pragmatic exam-oriented culture",
+        "F_reason": "Low masculinity (MAS=39); values interpersonal harmony; rich emotional expression (Korean drama culture)",
+        "J_reason": "Extremely high long-term orientation (LTO=100); extremely strong planning; systematized investment in education"
+      },
+      "justification": "Highly values social relationships and collective harmony, with a well-developed appearance management culture — a quintessential relationship-driven society."
+    },
+    {
+      "id": "826",
+      "iso_a3": "GBR",
+      "name_en": "United Kingdom",
+      "mbti": "ENTP",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: IDV=89 (high individualism), MAS=66 (competitive culture), UAI=35 (low uncertainty avoidance)",
+        "Governance: Parliamentary democracy + common law tradition with a deep culture of debate",
+        "Cultural consensus: Satirical humor, debating tradition, major innovator nation, gentlemanly yet sharp-tongued"
+      ],
+      "dimension_analysis": {
+        "E_reason": "High individualism (IDV=89) encourages self-expression; parliamentary debate tradition; rich pub social culture",
+        "N_reason": "Low uncertainty avoidance (UAI=35); birthplace of the Industrial Revolution; strong science fiction literary tradition",
+        "T_reason": "High masculinity (MAS=66); empiricist philosophical tradition; culture of rational debate",
+        "P_reason": "Low uncertainty avoidance (UAI=35); flexible common law system; highly adaptable"
+      },
+      "justification": "Reserved and understated, values tradition and etiquette, stable and reliable yet reluctant to express emotions openly."
+    },
+    {
+      "id": "250",
+      "iso_a3": "FRA",
+      "name_en": "France",
+      "mbti": "ENFP",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: IDV=71 (high individualism), UAI=86 (high uncertainty avoidance), IVR=48 (moderate indulgence)",
+        "Governance: Centralized authority but with a strong revolutionary tradition; well-developed strike culture",
+        "Cultural consensus: Romanticism, artistic freedom, revolutionary spirit, hedonism"
+      ],
+      "dimension_analysis": {
+        "E_reason": "High individualism (IDV=71) encourages self-expression; cafe debate culture; rich social life",
+        "N_reason": "Birthplace of the Enlightenment; philosophical and speculative tradition; avant-garde art and innovation",
+        "F_reason": "Low masculinity (MAS=43); values quality of life; romantic cultural tradition",
+        "P_reason": "Revolutionary tradition of overturning established order; strike culture that challenges rules; freedom above all"
+      },
+      "justification": "The embodiment of romanticism, pursuing freedom and artistic expression — passionate yet also whimsical and free-spirited."
+    },
+    {
+      "id": "276",
+      "iso_a3": "DEU",
+      "name_en": "Germany",
+      "mbti": "INTJ",
+      "confidence": 5,
+      "sources": [
+        "Hofstede: LTO=83 (high long-term orientation), MAS=66 (competitive culture), UAI=65 (moderately high uncertainty avoidance)",
+        "Governance: Federal system + social market economy, dominated by engineering-minded thinking",
+        "Cultural consensus: Precision and rigor, efficiency above all, engineering culture, extremely strong rule consciousness"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Direct but reserved communication style; strong sense of personal privacy; deep thinking rather than superficial socializing",
+        "N_reason": "High long-term orientation (LTO=83); philosophical tradition (Kant, Hegel); systematic thinking",
+        "T_reason": "High masculinity (MAS=66); engineering culture; logical and rational decision-making",
+        "J_reason": "Moderately high uncertainty avoidance (UAI=65); rules and order above all; strong planning orientation"
+      },
+      "justification": "Precision-driven systems thinking with a rational, efficient engineering mindset — everything can be optimized."
+    },
+    {
+      "id": "643",
+      "iso_a3": "RUS",
+      "name_en": "Russia",
+      "mbti": "ISTP",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: UAI=95 (extremely high uncertainty avoidance), PDI=93 (high power distance), MAS=36 (low masculinity)",
+        "Governance: Centralized authority, strongman political tradition, pragmatic diplomacy",
+        "Cultural consensus: Hardcore pragmatism, tough independence, blunt and rugged, strong survival instincts"
+      ],
+      "dimension_analysis": {
+        "I_reason": "High power distance (PDI=93); socially cautious; reserved in expression but rich inner world",
+        "S_reason": "Pragmatic survival wisdom forged in extreme environments; values practical action over theory",
+        "T_reason": "Hardcore rationality; military and scientific tradition; pragmatic decision-making style",
+        "P_reason": "Multiple dramatic upheavals in history demonstrate adaptability; flexible response to extreme situations"
+      },
+      "justification": "A hardcore pragmatist — independent, resilient, and solving problems in the most direct way possible."
+    },
+    {
+      "id": "076",
+      "iso_a3": "BRA",
+      "name_en": "Brazil",
+      "mbti": "ESFP",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: IVR=59 (moderate indulgence), PDI=69 (high power distance), UAI=76 (high uncertainty avoidance)",
+        "Governance: Federal democratic system, swinging social policies, mixed economy",
+        "Cultural consensus: Carnival culture, football passion, samba, hedonistic approach to life"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Carnival culture is world-famous; socializing is passionate and exuberant; collective celebrations are central to life",
+        "S_reason": "Living-in-the-moment attitude; sensory pleasure culture; values concrete experiences",
+        "F_reason": "Moderate masculinity (MAS=49); warm interpersonal relationships; rich emotional expression",
+        "P_reason": "Flexible and casual sense of time; improvisational culture; enjoying the present rather than planning the future"
+      },
+      "justification": "A born performer — passionate, spontaneous, and living in the moment, defining life through music and dance."
+    },
+    {
+      "id": "356",
+      "iso_a3": "IND",
+      "name_en": "India",
+      "mbti": "INFJ",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: PDI=77 (high power distance), LTO=51 (moderate long-term orientation), IDV=48 (moderate individualism)",
+        "Governance: Federal democracy + caste system legacy, religion and politics intertwined",
+        "Cultural consensus: Deep spiritual tradition, birthplace of yoga and meditation, multi-layered cultural complexity"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Deep tradition of meditation and introspection; spirituality is inward-looking; philosophical contemplation tradition",
+        "N_reason": "Ancient philosophical systems (Vedas, Upanishads); grand cosmic worldview; well-developed abstract thinking",
+        "F_reason": "MAS=56 is moderate, but religious and moral values dominate; philosophy of non-violence; culture of empathy",
+        "J_reason": "Structural nature of the caste system; formality of religious rituals; strong traditional sense of order"
+      },
+      "justification": "A profound spiritual world and complex cultural layers — visionary yet full of contradictions."
+    },
+    {
+      "id": "036",
+      "iso_a3": "AUS",
+      "name_en": "Australia",
+      "mbti": "ESTP",
+      "confidence": 5,
+      "sources": [
+        "Hofstede: IDV=90 (extremely high individualism), IVR=71 (high indulgence), UAI=51 (moderate uncertainty avoidance)",
+        "Governance: Federal parliamentary democracy, welfare state coexisting with free market",
+        "Cultural consensus: Adventurous outdoor culture, straightforward and direct, mateship spirit, extreme sports enthusiasts"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Extremely high individualism (IDV=90); socially open and direct; culture of collective outdoor activities",
+        "S_reason": "Pragmatic, hands-on culture; values concrete experience and action; anti-intellectual elitism",
+        "T_reason": "High masculinity (MAS=61); competitive sports culture; direct and frank communication",
+        "P_reason": "Moderate uncertainty avoidance (UAI=51); casual and flexible attitude toward life; 'no worries' culture"
+      },
+      "justification": "A perfect blend of adventurous spirit and laid-back lifestyle — the great outdoors is their home turf."
+    },
+    {
+      "id": "124",
+      "iso_a3": "CAN",
+      "name_en": "Canada",
+      "mbti": "INFP",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: IDV=80 (high individualism), MAS=52 (moderate masculinity), IVR=68 (high indulgence)",
+        "Governance: Federal parliamentary democracy, multiculturalism policy, welfare state",
+        "Cultural consensus: Polite and inclusive, multiculturalism, strong environmental awareness, gentle idealism"
+      ],
+      "dimension_analysis": {
+        "I_reason": "More gentle and reserved compared to the US; self-reflective culture; diverse but understated",
+        "N_reason": "Idealistic multicultural policies; future-oriented environmental policies; innovative tech development",
+        "F_reason": "Moderate masculinity (MAS=52) leaning cooperative; highly inclusive of diverse values; welfare state philosophy",
+        "P_reason": "Low uncertainty avoidance (UAI=48); flexible immigration policies; open and highly adaptable"
+      },
+      "justification": "The epitome of idealism and gentle inclusivity, pursuing peace and multicultural coexistence."
+    },
+    {
+      "id": "380",
+      "iso_a3": "ITA",
+      "name_en": "Italy",
+      "mbti": "ESFP",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: IDV=76 (high individualism), MAS=70 (high masculinity), IVR=30 (low indulgence)",
+        "Governance: Parliamentary republic, frequent political turnover, large regional differences",
+        "Cultural consensus: Passionate and exuberant, food culture, fashion capital, family first, enjoying life"
+      ],
+      "dimension_analysis": {
+        "E_reason": "High individualism (IDV=76); passionate and outgoing social style; gesture-rich communication",
+        "S_reason": "Sensory pleasure culture (food, fashion, art appreciation); attention to concrete details and quality",
+        "F_reason": "Extremely strong family emotional bonds; passionate emotional expression; relationships take priority over rules",
+        "P_reason": "Flexible and casual sense of time; political volatility; la dolce vita hedonistic attitude"
+      },
+      "justification": "A passionate sensory hedonist — master of food, fashion, and art, with family and joy above all."
+    },
+    {
+      "id": "724",
+      "iso_a3": "ESP",
+      "name_en": "Spain",
+      "mbti": "ESFP",
+      "confidence": 5,
+      "sources": [
+        "Hofstede: IDV=51 (moderate individualism), UAI=86 (high uncertainty avoidance), IVR=44 (moderate indulgence)",
+        "Governance: Parliamentary constitutional monarchy, autonomous community system, welfare state",
+        "Cultural consensus: Passionate and exuberant, hedonism, siesta culture, bullfighting and flamenco"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Passionate social culture; frequent festivals and celebrations; rich outdoor public life",
+        "S_reason": "Sensory enjoyment above all (fine food and wine); living-in-the-moment cultural philosophy",
+        "F_reason": "Low masculinity (MAS=42); values quality of life and interpersonal relationships",
+        "P_reason": "Siesta culture reflects a flexible sense of time; enjoyment takes priority over efficiency"
+      },
+      "justification": "A passionate hedonist — life is one endless party that never stops."
+    },
+    {
+      "id": "620",
+      "iso_a3": "PRT",
+      "name_en": "Portugal",
+      "mbti": "ISFP",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: UAI=104 (world's highest uncertainty avoidance), IDV=27 (collectivism), MAS=31 (low masculinity)",
+        "Governance: Semi-presidential republic, active participant in European integration",
+        "Cultural consensus: Understated and emotional, saudade melancholic aesthetic, fado music, spirit of maritime exploration"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Low individualism (IDV=27); saudade introspective emotion; reserved and understated",
+        "S_reason": "Rich sensory experiences (food, music, nature); attention to specific traditions",
+        "F_reason": "Low masculinity (MAS=31); emotionally delicate; values quality of life",
+        "P_reason": "Flexible and adaptive attitude toward life; legacy of the adventurous spirit of maritime exploration"
+      },
+      "justification": "A quiet artistic soul — emotionally delicate, savoring life's small joys."
+    },
+    {
+      "id": "528",
+      "iso_a3": "NLD",
+      "name_en": "Netherlands",
+      "mbti": "ENTP",
+      "confidence": 5,
+      "sources": [
+        "Hofstede: IDV=80 (high individualism), MAS=14 (one of the world's lowest masculinity), LTO=67 (high long-term orientation)",
+        "Governance: Parliamentary democracy + consensus politics (polder model), extremely open and liberal",
+        "Cultural consensus: Open-minded, innovative business acumen, outspoken, challenges tradition"
+      ],
+      "dimension_analysis": {
+        "E_reason": "High individualism (IDV=80) encourages direct expression; commercial and trade social tradition; debate culture",
+        "N_reason": "High long-term orientation (LTO=67); tradition of hydraulic engineering innovation; challenges conventional thinking",
+        "T_reason": "Despite very low MAS=14, strong business rationality; outspoken; matter-of-fact",
+        "P_reason": "Moderate uncertainty avoidance (UAI=53); flexible consensus politics; experimental social policies"
+      },
+      "justification": "An open-minded innovator who dares to challenge convention, with an exceptionally sharp business acumen."
+    },
+    {
+      "id": "056",
+      "iso_a3": "BEL",
+      "name_en": "Belgium",
+      "mbti": "ISFJ",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: UAI=94 (high uncertainty avoidance), LTO=82 (high long-term orientation), IDV=75 (high individualism)",
+        "Governance: Federal constitutional monarchy, linguistic community governance, compromise politics",
+        "Cultural consensus: Low-key and pragmatic, peacemaker, EU headquarters, chocolate and beer"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Relatively reserved and low-key; not showy; stays quiet in the shadow of its neighbors",
+        "S_reason": "Focused on specific traditions (chocolate, beer, waffles); pragmatic approach to life",
+        "F_reason": "Moderate masculinity (MAS=54); spirit of compromise and mediation; values community harmony",
+        "J_reason": "High uncertainty avoidance (UAI=94); well-developed bureaucratic system; strong rule consciousness"
+      },
+      "justification": "A quiet, pragmatic peacemaker — home of the EU headquarters, silently maintaining peace."
+    },
+    {
+      "id": "756",
+      "iso_a3": "CHE",
+      "name_en": "Switzerland",
+      "mbti": "ISTJ",
+      "confidence": 5,
+      "sources": [
+        "Hofstede: LTO=74 (high long-term orientation), MAS=70 (high masculinity), UAI=58 (moderate uncertainty avoidance)",
+        "Governance: Federal system + direct democracy, neutrality policy, precision industry tradition",
+        "Cultural consensus: Precision, neutrality, reliability, watchmaking precision, banking secrecy, efficiency above all"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Neutral and understated international image; reserved and pragmatic; extremely strong privacy awareness",
+        "S_reason": "Watchmaking precision manufacturing tradition; attention to concrete details and quality; pragmatism",
+        "T_reason": "High masculinity (MAS=70); rational and pragmatic; calm decision-making in the financial industry",
+        "J_reason": "Precise sense of time; rules above all; rigorous banking system"
+      },
+      "justification": "Precise, neutral, and reliable — society runs with the precision of a Swiss watch."
+    },
+    {
+      "id": "040",
+      "iso_a3": "AUT",
+      "name_en": "Austria",
+      "mbti": "INFJ",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: MAS=79 (high masculinity), UAI=70 (high uncertainty avoidance), PDI=11 (world's lowest power distance)",
+        "Governance: Federal parliamentary republic, social partnership model",
+        "Cultural consensus: Capital of music and art, philosophical and psychological tradition (Freud), cafe culture"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Cafe contemplation culture; introspective tradition (Freud's psychoanalysis); understated elegance",
+        "N_reason": "Philosophical and psychological tradition; musical and artistic creativity; well-developed abstract thinking",
+        "F_reason": "Deep tradition of artistic and emotional expression; the sensibility underlying the music capital",
+        "J_reason": "High uncertainty avoidance (UAI=70); well-ordered society; stable traditional structures"
+      },
+      "justification": "Deep artistic and philosophical traditions — introspective yet visionary; the music capital lives up to its name."
+    },
+    {
+      "id": "752",
+      "iso_a3": "SWE",
+      "name_en": "Sweden",
+      "mbti": "INTP",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: MAS=5 (world's lowest masculinity), IDV=71 (high individualism), UAI=29 (low uncertainty avoidance)",
+        "Governance: Parliamentary constitutional monarchy + high welfare state, consensus decision-making",
+        "Cultural consensus: Rational and innovative, socially reserved culture, lagom philosophy, environmental and tech pioneer"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Social introversion is a national trait; lagom (moderation) culture; quiet and introverted social style",
+        "N_reason": "Tech innovation (Spotify/Skype/IKEA); forward-looking social policies",
+        "T_reason": "Rational decision-making tradition; science and engineering oriented; data-driven policy-making",
+        "P_reason": "Low uncertainty avoidance (UAI=29); flexible and innovative; experimental social policies"
+      },
+      "justification": "A rational, innovative thinker with precisely designed social systems, balancing technology and environmental stewardship."
+    },
+    {
+      "id": "578",
+      "iso_a3": "NOR",
+      "name_en": "Norway",
+      "mbti": "INFP",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: MAS=8 (extremely low masculinity), IDV=69 (high individualism), IVR=55 (moderate indulgence)",
+        "Governance: Parliamentary constitutional monarchy + high welfare state, exemplary oil wealth management",
+        "Cultural consensus: Idealistic, nature-loving, peace-seeking, understated and modest"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Enjoys solitude and closeness to nature; quiet social style; reserved and low-key",
+        "N_reason": "Idealistic social policies; Nobel Peace Prize tradition; forward-looking environmental stewardship",
+        "F_reason": "Extremely low masculinity (MAS=8); highly caring and cooperative; welfare state philosophy",
+        "P_reason": "Moderate uncertainty avoidance (UAI=50); flexible social policies; open and inclusive"
+      },
+      "justification": "The idealistic Nordic exemplar — a lover of nature and peace, quietly striving for a better world."
+    },
+    {
+      "id": "208",
+      "iso_a3": "DNK",
+      "name_en": "Denmark",
+      "mbti": "ENFP",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: IDV=74 (high individualism), MAS=16 (extremely low masculinity), UAI=23 (extremely low uncertainty avoidance)",
+        "Governance: Parliamentary constitutional monarchy + high welfare state, hygge culture",
+        "Cultural consensus: World's happiest, hygge comfort philosophy, cheerful creativity, LEGO creativity"
+      ],
+      "dimension_analysis": {
+        "E_reason": "High individualism (IDV=74) encourages self-expression; relaxed and friendly social settings",
+        "N_reason": "Extremely low uncertainty avoidance (UAI=23); thriving creative industries (LEGO/design)",
+        "F_reason": "Extremely low masculinity (MAS=16); warm hygge culture; care and cooperation oriented",
+        "P_reason": "Extremely low uncertainty avoidance (UAI=23); flexible and open approach to life"
+      },
+      "justification": "Perennially top-ranked in happiness — an optimistic creative with hygge philosophy deeply embedded in daily life."
+    },
+    {
+      "id": "246",
+      "iso_a3": "FIN",
+      "name_en": "Finland",
+      "mbti": "INTP",
+      "confidence": 5,
+      "sources": [
+        "Hofstede: MAS=26 (low masculinity), IDV=63 (high individualism), UAI=59 (moderate uncertainty avoidance)",
+        "Governance: Parliamentary republic + high welfare state, education powerhouse",
+        "Cultural consensus: Taciturn, sauna culture, education innovation, birthplace of Nokia/Linux"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Pinnacle of social introversion; silence is golden culture; two-meter queuing distance",
+        "N_reason": "World-leading education innovation; birthplace of Linux; systematic thinking",
+        "T_reason": "Rational and objective; data-driven decision-making; engineering culture",
+        "P_reason": "Moderate uncertainty avoidance (UAI=59); innovative experimental spirit; flexible education system"
+      },
+      "justification": "A quiet thinker and education powerhouse — brewing innovation in silence."
+    },
+    {
+      "id": "352",
+      "iso_a3": "ISL",
+      "name_en": "Iceland",
+      "mbti": "INFP",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: IDV=75 (high individualism), MAS=10 (extremely low masculinity), UAI=40 (low uncertainty avoidance)",
+        "Governance: Parliamentary republic, world's oldest parliament, high degree of equality",
+        "Cultural consensus: Detached from the world, elf legends, extreme nature, literary tradition"
+      ],
+      "dimension_analysis": {
+        "I_reason": "A quiet society of 300,000 people; solitude in nature; introspective literary tradition",
+        "N_reason": "Elf legends and saga literature; rich imagination; thriving creative arts",
+        "F_reason": "Extremely low masculinity (MAS=10); highly egalitarian and caring; gentle society",
+        "P_reason": "Low uncertainty avoidance (UAI=40); flexibly adapts to extreme environments"
+      },
+      "justification": "An unworldly dreamer, seeking inner tranquility amidst extreme natural landscapes."
+    },
+    {
+      "id": "372",
+      "iso_a3": "IRL",
+      "name_en": "Ireland",
+      "mbti": "ENFP",
+      "confidence": 5,
+      "sources": [
+        "Hofstede: IDV=70 (high individualism), MAS=68 (high masculinity), UAI=35 (low uncertainty avoidance)",
+        "Governance: Parliamentary republic, the Celtic Tiger economic miracle",
+        "Cultural consensus: Warm and hospitable, storytelling tradition, optimistic humor, pub culture"
+      ],
+      "dimension_analysis": {
+        "E_reason": "High individualism (IDV=70); pub social culture; natural-born storytellers",
+        "N_reason": "Extremely strong literary tradition (Joyce/Wilde); imagination and creativity",
+        "F_reason": "Rich human warmth; warm hospitality; strong community bonds",
+        "P_reason": "Low uncertainty avoidance (UAI=35); flexible and easygoing; humor as a way to handle uncertainty"
+      },
+      "justification": "Born storytellers and social butterflies — warm hospitality and optimistic humor run through their veins."
+    },
+    {
+      "id": "616",
+      "iso_a3": "POL",
+      "name_en": "Poland",
+      "mbti": "ISTJ",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: UAI=93 (high uncertainty avoidance), MAS=64 (high masculinity), IDV=60 (moderate individualism)",
+        "Governance: Semi-presidential republic, deep Catholic influence",
+        "Cultural consensus: Resilient and pragmatic, deeply devout, preserving perseverance through historical suffering"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Moderate individualism; traditionally reserved; pragmatic and low-key",
+        "S_reason": "High uncertainty avoidance (UAI=93); pragmatic tradition; focused on concrete action",
+        "T_reason": "High masculinity (MAS=64); tough and competitive; rational and pragmatic",
+        "J_reason": "High uncertainty avoidance (UAI=93); rule and order; traditional structure"
+      },
+      "justification": "A resilient, pragmatic guardian of tradition — maintaining faith and a sense of order through historical hardship."
+    },
+    {
+      "id": "203",
+      "iso_a3": "CZE",
+      "name_en": "Czechia",
+      "mbti": "ISTP",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: UAI=74 (high uncertainty avoidance), LTO=70 (high long-term orientation), IDV=58 (moderate individualism)",
+        "Governance: Parliamentary republic, deep industrial tradition",
+        "Cultural consensus: Pragmatic and low-key, beer culture, superb craftsmanship, major atheist nation"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Low-key and unassuming; pragmatic and reserved; the quiet heart of Europe",
+        "S_reason": "Industrial manufacturing tradition; attention to practical quality; precise beer-brewing craftsmanship",
+        "T_reason": "Atheistic rational thinking; pragmatism; technology-oriented",
+        "P_reason": "Flexible and pragmatic approach to life; strong adaptability; non-dogmatic"
+      },
+      "justification": "A pragmatic, low-key craftsman with deep beer culture — understated but technically excellent."
+    },
+    {
+      "id": "703",
+      "iso_a3": "SVK",
+      "name_en": "Slovakia",
+      "mbti": "ISFP",
+      "confidence": 3,
+      "sources": [
+        "Hofstede: PDI=104 (one of the world's highest power distance), MAS=110 (extremely high masculinity), LTO=77 (high long-term orientation)",
+        "Governance: Parliamentary republic, EU member state",
+        "Cultural consensus: Quiet and low-key, nature lover, simple and genuine customs, castle culture"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Quiet and low-key social atmosphere; presence takes effort to build",
+        "S_reason": "Focused on specific traditions and natural experiences; folk handicraft tradition",
+        "F_reason": "Simple and genuine customs; warm community relationships; despite high MAS, cultural expression leans emotional",
+        "P_reason": "Flexible and easygoing attitude toward life; strong adaptability"
+      },
+      "justification": "A quiet nature lover with simple, genuine customs, enjoying the simple life."
+    },
+    {
+      "id": "348",
+      "iso_a3": "HUN",
+      "name_en": "Hungary",
+      "mbti": "INTJ",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: IDV=80 (high individualism), MAS=88 (high masculinity), UAI=82 (high uncertainty avoidance)",
+        "Governance: Parliamentary republic, tradition of independent and assertive politics",
+        "Cultural consensus: Extremely high intellectual density, prolific mathematical geniuses, uniquely independent, thermal bath culture"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Tradition of independent thinking; sense of isolation from unique language; introspective and profound",
+        "N_reason": "Prolific mathematical and scientific geniuses (von Neumann and others); extremely strong abstract thinking",
+        "T_reason": "Extremely high masculinity (MAS=88); competitive achievement orientation; rational analysis",
+        "J_reason": "High uncertainty avoidance (UAI=82); structured thinking; strong planning orientation"
+      },
+      "justification": "A nation of extremely high intellectual density — producing mathematical geniuses in abundance, rational and independent."
+    },
+    {
+      "id": "642",
+      "iso_a3": "ROU",
+      "name_en": "Romania",
+      "mbti": "ENFP",
+      "confidence": 3,
+      "sources": [
+        "Hofstede: PDI=90 (high power distance), UAI=90 (high uncertainty avoidance), IVR=20 (low indulgence)",
+        "Governance: Semi-presidential republic, EU member state",
+        "Cultural consensus: Warm and hospitable Latin people, Dracula legend, creative IT talent, rich folklore"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Latin-blooded passionate extroversion; rich social culture; storytelling tradition",
+        "N_reason": "Rich folklore and imagination; prolific IT innovation talent",
+        "F_reason": "Low masculinity (MAS=42); values interpersonal relationships and emotional expression",
+        "P_reason": "Flexible and adaptive approach to life; creativity-driven rather than plan-driven"
+      },
+      "justification": "A passionate, romantic Latin soul — surrounded by Slavic cultures yet maintaining a unique identity, with rich imagination."
+    },
+    {
+      "id": "100",
+      "iso_a3": "BGR",
+      "name_en": "Bulgaria",
+      "mbti": "ISTJ",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: UAI=85 (high uncertainty avoidance), LTO=69 (high long-term orientation), IDV=30 (collectivism)",
+        "Governance: Parliamentary republic, EU member state",
+        "Cultural consensus: Traditionally tenacious, yogurt and rose culture, reversed head-nodding gestures"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Collectivism (IDV=30); low-key and reserved; traditionally understated",
+        "S_reason": "High uncertainty avoidance (UAI=85); traditionally pragmatic; attention to concrete details",
+        "T_reason": "Moderate masculinity (MAS=40) leaning rational; pragmatic decision-making",
+        "J_reason": "High uncertainty avoidance (UAI=85); rules and tradition above all"
+      },
+      "justification": "Traditional and conservative yet tenacious — yogurt and roses are its cultural symbols."
+    },
+    {
+      "id": "300",
+      "iso_a3": "GRC",
+      "name_en": "Greece",
+      "mbti": "ENFP",
+      "confidence": 3,
+      "sources": [
+        "Hofstede: UAI=112 (world's highest uncertainty avoidance), IDV=35 (collectivism), IVR=50 (moderate indulgence)",
+        "Governance: Parliamentary republic, EU/Eurozone member",
+        "Cultural consensus: Birthplace of philosophy and art, passionate and romantic, enjoying life, Mediterranean slow pace"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Mediterranean passionate social culture; rich outdoor public life; debating tradition",
+        "N_reason": "Philosophical speculative tradition (Socrates/Plato/Aristotle); rich imagination",
+        "F_reason": "Moderate masculinity (MAS=57) but culturally emphasizes emotion; warm hospitality",
+        "P_reason": "Mediterranean flexible sense of time; enjoying life over planning (despite extremely high UAI data)"
+      },
+      "justification": "Birthplace of philosophy and art — passionate, romantic, and savoring every moment of life."
+    },
+    {
+      "id": "792",
+      "iso_a3": "TUR",
+      "name_en": "Turkey",
+      "mbti": "ESFJ",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: UAI=85 (high uncertainty avoidance), PDI=66 (moderately high power distance), IDV=37 (collectivism)",
+        "Governance: Presidential republic, tension between secularism and religion",
+        "Cultural consensus: Extreme hospitality, tea house social culture, family above all, East-West crossroads"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Extreme hospitality tradition; teahouse social culture; warm and outgoing communication",
+        "S_reason": "High uncertainty avoidance (UAI=85); focused on tradition and concrete experiences",
+        "F_reason": "Moderate masculinity (MAS=45) leaning cooperative; relationship-driven society; strong family bonds",
+        "J_reason": "High uncertainty avoidance (UAI=85); traditional norms; stable social structure"
+      },
+      "justification": "Hospitality taken to the extreme — deep social culture with an extremely strong family orientation."
+    },
+    {
+      "id": "818",
+      "iso_a3": "EGY",
+      "name_en": "Egypt",
+      "mbti": "ENTJ",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: PDI=80 (high power distance), MAS=55 (moderate masculinity), LTO=7 (extremely low long-term orientation)",
+        "Governance: Presidential republic + military-dominated, pyramid-level planning and execution",
+        "Cultural consensus: Ancient civilization's leadership temperament, 7,000 years of continuous civilization, regional power status"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Vibrant bazaar social culture; warm and outgoing communication style; regional leadership posture",
+        "N_reason": "Grand vision of ancient civilization; pyramid-level strategic planning mindset",
+        "T_reason": "Military management tradition; authoritative decision-making; rational planning",
+        "J_reason": "High power distance (PDI=80); clear hierarchy; strong organizational execution"
+      },
+      "justification": "A strategic leader of ancient civilization — pyramid-level planning and execution, demonstrating leadership in regional affairs."
+    },
+    {
+      "id": "710",
+      "iso_a3": "ZAF",
+      "name_en": "South Africa",
+      "mbti": "ENFJ",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: IDV=65 (moderately high individualism), MAS=63 (moderately high masculinity), IVR=63 (moderately high indulgence)",
+        "Governance: Presidential republic, Rainbow Nation multicultural democracy",
+        "Cultural consensus: Rainbow Nation, Ubuntu spirit, Mandela's legacy, multicultural leader"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Ubuntu social culture; active multicultural exchange; outward expression",
+        "N_reason": "Ubuntu philosophy's grand humanistic vision; Rainbow Nation aspiration; social transformation thinking",
+        "F_reason": "Ubuntu spirit ('I am because we are'); community care; culture of reconciliation",
+        "J_reason": "Moderate uncertainty avoidance (UAI=49); institution-building orientation; organizational planning"
+      },
+      "justification": "The Rainbow Nation — a leader in multiculturalism with the Ubuntu spirit deeply embedded in its people."
+    },
+    {
+      "id": "566",
+      "iso_a3": "NGA",
+      "name_en": "Nigeria",
+      "mbti": "ENTP",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: IVR=84 (high indulgence), PDI=77 (high power distance), MAS=60 (moderately high masculinity)",
+        "Governance: Federal presidential republic, oil economy + entrepreneurial culture",
+        "Cultural consensus: Africa's largest economy, hustle entrepreneurial spirit, Nollywood creativity, bursting with energy"
+      ],
+      "dimension_analysis": {
+        "E_reason": "High indulgence index (IVR=84); socially active; outwardly direct expression",
+        "N_reason": "Vigorous entrepreneurial and innovative spirit; Nollywood creativity; dares to break through",
+        "T_reason": "Moderately high masculinity (MAS=60); competitive hustle culture; business rationality",
+        "P_reason": "Flexible and ever-changing business environment; extremely strong adaptability; informal economy innovation"
+      },
+      "justification": "Africa's largest economy — brimming with entrepreneurial energy, vitality, and innovation."
+    },
+    {
+      "id": "404",
+      "iso_a3": "KEN",
+      "name_en": "Kenya",
+      "mbti": "ESTP",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: PDI=64 (moderately high power distance), MAS=41 (moderate masculinity), UAI=52 (moderate uncertainty avoidance)",
+        "Governance: Presidential republic, East Africa's economic engine",
+        "Cultural consensus: Long-distance running kingdom, M-Pesa mobile payment pioneer, Great Migration, strong action orientation"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Active social culture; frequent business interaction; action-oriented",
+        "S_reason": "Pragmatic and action-oriented; values concrete outcomes (M-Pesa as practical innovation)",
+        "T_reason": "Competitive spirit (long-distance running kingdom); business rationality; pragmatic decision-making",
+        "P_reason": "Moderate uncertainty avoidance (UAI=52); flexible and adaptive; innovative experimentation"
+      },
+      "justification": "The long-distance running kingdom — explosive action capability, with running embedded in the national DNA."
+    },
+    {
+      "id": "288",
+      "iso_a3": "GHA",
+      "name_en": "Ghana",
+      "mbti": "ESFJ",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: IVR=72 (high indulgence), PDI=77 (high power distance), MAS=40 (low masculinity)",
+        "Governance: Presidential republic, a model of West African democracy",
+        "Cultural consensus: Star of West Africa, warm hospitality, extremely strong community spirit, dancing pallbearers culture"
+      ],
+      "dimension_analysis": {
+        "E_reason": "High indulgence index (IVR=72); socially active; warm hospitality",
+        "S_reason": "Focused on specific traditions and community life; pragmatic",
+        "F_reason": "Low masculinity (MAS=40); caring and cooperative; community harmony",
+        "J_reason": "Community norms and traditional structures; sense of social order"
+      },
+      "justification": "The Star of West Africa — warm hospitality, extremely strong community spirit, a model of African democracy."
+    },
+    {
+      "id": "800",
+      "iso_a3": "UGA",
+      "name_en": "Uganda",
+      "mbti": "ESFP",
+      "confidence": 3,
+      "sources": [
+        "Hofstede cultural dimensions: PDI=64, IDV=25, MAS=40, UAI=52, LTO=24, IVR=52",
+        "Low individualism (25), collectivist culture, socializing is group-centered",
+        "Cultural consensus: Pearl of Africa, optimistic and warm people, music and dance are part of daily life"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Extroverted tendency inferred from cultural characteristics",
+        "S_reason": "Sensing tendency inferred from cultural characteristics",
+        "F_reason": "Feeling tendency inferred from cultural characteristics",
+        "P_reason": "Perceiving tendency inferred from cultural characteristics"
+      },
+      "justification": "The Pearl of Africa — optimistic and warm people for whom music and dance are integral parts of life."
+    },
+    {
+      "id": "834",
+      "iso_a3": "TZA",
+      "name_en": "Tanzania",
+      "mbti": "ISFP",
+      "confidence": 3,
+      "sources": [
+        "Hofstede cultural dimensions: PDI=64, IDV=27, MAS=41, UAI=52, LTO=34, IVR=38",
+        "Low individualism (27), collectivist culture, socializing is group-centered",
+        "Cultural consensus: An artist in harmony with nature, a tranquil soul beneath Mount Kilimanjaro"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Introverted tendency inferred from cultural characteristics",
+        "S_reason": "Sensing tendency inferred from cultural characteristics",
+        "F_reason": "Feeling tendency inferred from cultural characteristics",
+        "P_reason": "Perceiving tendency inferred from cultural characteristics"
+      },
+      "justification": "An artist in harmony with nature — a tranquil soul beneath Mount Kilimanjaro."
+    },
+    {
+      "id": "231",
+      "iso_a3": "ETH",
+      "name_en": "Ethiopia",
+      "mbti": "INFJ",
+      "confidence": 4,
+      "sources": [
+        "Limited Hofstede data, inferred from cultural observations",
+        "Governance: Federal parliamentary republic, home of the African Union headquarters",
+        "Cultural consensus: The only uncolonized ancient nation in Africa, unique calendar, coffee culture, extremely strong spirituality"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Introspective spiritual tradition; unique cultural autonomy; quiet confidence",
+        "N_reason": "Abstract thinking seen in unique calendar and writing systems; grand civilizational vision",
+        "F_reason": "Emotional exchange in coffee ceremonies; community care tradition",
+        "J_reason": "Ancient hierarchical systems and religious norms; traditional sense of order"
+      },
+      "justification": "The only African country never colonized — with a unique calendar and coffee culture, deeply spiritual."
+    },
+    {
+      "id": "504",
+      "iso_a3": "MAR",
+      "name_en": "Morocco",
+      "mbti": "ESFJ",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: PDI=70 (high power distance), IDV=46 (moderate individualism), UAI=68 (moderately high uncertainty avoidance)",
+        "Governance: Constitutional monarchy, crossroads of Arab and African cultures",
+        "Cultural consensus: Warm and welcoming gateway to North Africa, colorful, mint tea socializing"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Warm and hospitable social culture; mint tea hospitality tradition; bazaar interaction",
+        "S_reason": "Focused on specific traditions (crafts/cuisine/architecture); sensory richness",
+        "F_reason": "Moderate masculinity (MAS=53); rich human warmth; spirit of hospitality",
+        "J_reason": "Moderately high uncertainty avoidance (UAI=68); traditional norms; stable social structure"
+      },
+      "justification": "The warm and welcoming gateway to North Africa — a colorful culture with rich social customs."
+    },
+    {
+      "id": "682",
+      "iso_a3": "SAU",
+      "name_en": "Saudi Arabia",
+      "mbti": "ESTJ",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: PDI=80 (high power distance), UAI=68 (moderately high uncertainty avoidance), MAS=53 (moderate masculinity)",
+        "Governance: Absolute monarchy, Islamic law and modernization running in parallel",
+        "Cultural consensus: Authoritarian order, oil wealth, tension between tradition and modernization"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Rich socializing culture; active business networking; hospitality tradition",
+        "S_reason": "Traditional values dominate; focused on concrete material development and outcomes",
+        "T_reason": "Authoritative decision-making model; rational economic diversification planning",
+        "J_reason": "High power distance (PDI=80); strict religious and social norms; order above all"
+      },
+      "justification": "Emphasizes order and authority, guided by traditional values, a resource powerhouse with strong execution."
+    },
+    {
+      "id": "784",
+      "iso_a3": "ARE",
+      "name_en": "United Arab Emirates",
+      "mbti": "ENTJ",
+      "confidence": 5,
+      "sources": [
+        "Hofstede: PDI=80 (high power distance), UAI=68 (moderately high uncertainty avoidance), LTO=23 (low long-term orientation)",
+        "Governance: Federal absolute monarchy, visionary urban planning",
+        "Cultural consensus: A strategist risen from the desert, turning the impossible into reality, global business hub"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Active global engagement; vibrant business diplomacy; positioned as an international hub",
+        "N_reason": "Forward-looking urban planning (Dubai/Abu Dhabi); driven by innovative vision",
+        "T_reason": "Strategically rational decision-making; achievement-oriented in business; efficiency above all",
+        "J_reason": "Powerful planning and execution; clearly hierarchical governance structure"
+      },
+      "justification": "A strategist risen from the desert — a visionary planner who turns the impossible into reality."
+    },
+    {
+      "id": "376",
+      "iso_a3": "ISR",
+      "name_en": "Israel",
+      "mbti": "ENTP",
+      "confidence": 5,
+      "sources": [
+        "Hofstede: PDI=13 (extremely low power distance), IDV=54 (moderate individualism), UAI=81 (high uncertainty avoidance)",
+        "Governance: Parliamentary democracy, innovation nation, universal conscription",
+        "Cultural consensus: Innovation nation (Startup Nation), culture of debate (chutzpah), challenging authority"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Extremely low power distance (PDI=13) encourages direct expression; debate is the mode of communication",
+        "N_reason": "Highest innovation density globally; challenges conventional thinking; forward-looking technology investment",
+        "T_reason": "Rational debate tradition; rational decision-making in tech startups; military strategic thinking",
+        "P_reason": "Chutzpah spirit challenges rules; flexible innovation; extremely strong adaptability"
+      },
+      "justification": "The Startup Nation — deep culture of debate, where challenging authority is a national sport."
+    },
+    {
+      "id": "364",
+      "iso_a3": "IRN",
+      "name_en": "Iran",
+      "mbti": "INFJ",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: PDI=58 (moderate power distance), MAS=43 (low masculinity), UAI=59 (moderate uncertainty avoidance)",
+        "Governance: Islamic republic, dual power structure of religion and politics",
+        "Cultural consensus: Profound wisdom of Persian civilization, poetic and philosophical tradition, reserved outside but warm within"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Reserved outside but warm within as a national character; introspective poetic tradition; understated expression",
+        "N_reason": "Abstract thinking in Persian poetry and philosophy (Rumi/Hafez); grand civilizational vision",
+        "F_reason": "Low masculinity (MAS=43); poetic emotional tradition; rich human warmth",
+        "J_reason": "Structural nature of religious norms; traditional social order; strong sense of ritual"
+      },
+      "justification": "The profound wisdom of Persian civilization — a tradition of poetry and philosophy, with a character that is reserved on the outside but warm within."
+    },
+    {
+      "id": "368",
+      "iso_a3": "IRQ",
+      "name_en": "Iraq",
+      "mbti": "ESTJ",
+      "confidence": 3,
+      "sources": [
+        "Hofstede: PDI=80 (high power distance), MAS=53 (moderate masculinity), UAI=68 (moderately high uncertainty avoidance)",
+        "Governance: Federal parliamentary republic, a Mesopotamian civilization in reconstruction",
+        "Cultural consensus: Heir to Mesopotamian civilization, values tradition and order, persevering through adversity"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Bazaar social culture; outgoing business interaction; warm hospitality",
+        "S_reason": "Traditionally pragmatic; focused on concrete daily life and reconstruction",
+        "T_reason": "Pursuit of order and institutions; authoritative decision-making tradition",
+        "J_reason": "High power distance (PDI=80); traditional norms; emphasis on rebuilding order"
+      },
+      "justification": "Heir to Mesopotamian civilization — values tradition and order, persevering through adversity."
+    },
+    {
+      "id": "400",
+      "iso_a3": "JOR",
+      "name_en": "Jordan",
+      "mbti": "ISFJ",
+      "confidence": 3,
+      "sources": [
+        "Hofstede cultural dimensions: PDI=78, IDV=35, MAS=50, UAI=68, LTO=16, IVR=43",
+        "Moderate individualism (35), coexistence of individual and collective values (I)",
+        "Cultural consensus: The stabilizing anchor of the Middle East, moderate and pragmatic, quietly maintaining regional balance."
+      ],
+      "dimension_analysis": {
+        "I_reason": "Introversion inferred from cultural characteristics",
+        "S_reason": "Sensing preference inferred from cultural characteristics",
+        "F_reason": "Feeling preference inferred from cultural characteristics",
+        "J_reason": "Judging preference inferred from cultural characteristics"
+      },
+      "justification": "The stabilizing anchor of the Middle East, moderate and pragmatic, quietly maintaining regional balance."
+    },
+    {
+      "id": "422",
+      "iso_a3": "LBN",
+      "name_en": "Lebanon",
+      "mbti": "ENFP",
+      "confidence": 3,
+      "sources": [
+        "Limited Hofstede data, inferred from cultural observations",
+        "Governance: Parliamentary republic (confessional power-sharing), complex power distribution",
+        "Cultural consensus: The Paris of the Middle East, free and romantic, optimism that throws parties on the ruins"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Extremely vibrant nightlife and social culture; outgoing and passionate",
+        "N_reason": "Creative collisions of multicultural influences; optimistic idealism (despite harsh realities)",
+        "F_reason": "Relationships come first; intensely emotional; strong community bonds",
+        "P_reason": "Staying flexible amid chaos; improvisational survival wisdom"
+      },
+      "justification": "The Paris of the Middle East, a free and romantic soul, an optimist who throws parties on the ruins."
+    },
+    {
+      "id": "586",
+      "iso_a3": "PAK",
+      "name_en": "Pakistan",
+      "mbti": "ESFJ",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: PDI=55 (moderate power distance), MAS=50 (moderate masculinity), UAI=70 (high uncertainty avoidance)",
+        "Governance: Federal parliamentary republic, Islamic republic",
+        "Cultural consensus: Hospitality taken to the extreme, iron-clad friendships, cricket obsession, extremely strong family and community bonds"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Extraordinary hospitality culture; frequent social interactions; warmly outgoing",
+        "S_reason": "Traditional and pragmatic; focus on concrete community life and cricket",
+        "F_reason": "Moderate masculinity (MAS=50); extremely strong family emotional bonds; relationship-centered society",
+        "J_reason": "High uncertainty avoidance (UAI=70); traditional norms; structured society"
+      },
+      "justification": "A nation of extraordinary hospitality, with extremely strong family and community bonds, world-renowned for its welcoming spirit."
+    },
+    {
+      "id": "050",
+      "iso_a3": "BGD",
+      "name_en": "Bangladesh",
+      "mbti": "ESFJ",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: PDI=80 (high power distance), IDV=20 (collectivist), MAS=55 (moderate masculinity)",
+        "Governance: Parliamentary republic, major garment industry nation",
+        "Cultural consensus: Extremely strong community awareness, remarkable mutual aid spirit despite staggering population density, full of resilience"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Active social life in a densely populated environment; frequent collective interactions",
+        "S_reason": "Pragmatic survival orientation; concrete skills in the garment industry",
+        "F_reason": "Extremely strong community mutual aid spirit; warm interpersonal relationships",
+        "J_reason": "Social norms and traditional structures; collective order"
+      },
+      "justification": "Extremely strong community spirit, maintaining interpersonal warmth and mutual support in a challenging environment."
+    },
+    {
+      "id": "764",
+      "iso_a3": "THA",
+      "name_en": "Thailand",
+      "mbti": "ESFP",
+      "confidence": 5,
+      "sources": [
+        "Hofstede: PDI=64 (moderately high power distance), MAS=34 (low masculinity), UAI=64 (moderately high uncertainty avoidance)",
+        "Governance: Constitutional monarchy, deeply rooted Buddhist culture",
+        "Cultural consensus: The Land of Smiles, coexistence of pleasure and devotion, food culture, living in the present"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Warm and friendly smile culture; active tourism and social scene; abundant festivals and celebrations",
+        "S_reason": "Sensory enjoyment culture (food/massage/nature); Buddhist philosophy of living in the present",
+        "F_reason": "Low masculinity (MAS=34); gentle and caring; conflict avoidance",
+        "P_reason": "Flexible and easygoing attitude toward time (sabai sabai); strong adaptability"
+      },
+      "justification": "The Land of Smiles, a wonderful fusion of hedonism and devout faith, living in the moment."
+    },
+    {
+      "id": "704",
+      "iso_a3": "VNM",
+      "name_en": "Vietnam",
+      "mbti": "ESTP",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: PDI=70 (high power distance), LTO=57 (moderately high long-term orientation), MAS=40 (low masculinity)",
+        "Governance: One-party socialist republic, Doi Moi (renovation) open economy",
+        "Cultural consensus: Pragmatic and flexible action-takers, a nation on motorbikes, extremely resilient"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Vibrant street social culture; frequent collective activities; outgoing and pragmatic",
+        "S_reason": "Pragmatic and action-oriented; focused on concrete results and hands-on work",
+        "T_reason": "Tradition of strategic pragmatism; rational decision-making in Doi Moi reforms; competitive spirit",
+        "P_reason": "Low uncertainty avoidance (UAI=30); extremely strong adaptability and flexibility"
+      },
+      "justification": "Pragmatic and agile doers, a nation on motorbikes, charging ahead at full speed through every challenge."
+    },
+    {
+      "id": "458",
+      "iso_a3": "MYS",
+      "name_en": "Malaysia",
+      "mbti": "ESFJ",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: PDI=104 (among the world's highest power distance), IDV=26 (collectivist), IVR=57 (moderate indulgence)",
+        "Governance: Federal constitutional monarchy, multi-ethnic co-governance",
+        "Cultural consensus: Multicultural harmony, warm and friendly, a food paradise"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Rich multicultural social life; food gathering culture; warm and friendly",
+        "S_reason": "Focus on concrete traditions and practical experiences; sensory enjoyment through food culture",
+        "F_reason": "Moderate masculinity (MAS=50); multicultural inclusiveness; community harmony",
+        "J_reason": "High power distance (PDI=104); well-defined hierarchical structures; stable social norms"
+      },
+      "justification": "A harmonious multicultural society, warm and friendly, where food is the top priority."
+    },
+    {
+      "id": "702",
+      "iso_a3": "SGP",
+      "name_en": "Singapore",
+      "mbti": "ESTJ",
+      "confidence": 5,
+      "sources": [
+        "Hofstede: LTO=72 (high long-term orientation), PDI=74 (high power distance), UAI=8 (extremely low uncertainty avoidance)",
+        "Governance: Parliamentary republic, one-party dominant, meritocratic governance, strict laws",
+        "Cultural consensus: Efficiency above all, strict rules, city of fines, outstanding governance in a small nation"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Active multicultural social scene; international business hub; outward-facing globalization",
+        "S_reason": "Pragmatic utilitarianism; focus on concrete efficiency and results",
+        "T_reason": "Meritocratic governance; rational decision-making; performance-oriented",
+        "J_reason": "Strict legal system; order above all; extremely strong planning and execution"
+      },
+      "justification": "The ultimate pursuit of order and efficiency, rules above all, a model of outstanding governance in a small nation."
+    },
+    {
+      "id": "360",
+      "iso_a3": "IDN",
+      "name_en": "Indonesia",
+      "mbti": "ENFJ",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: PDI=78 (high power distance), IDV=14 (extremely low individualism), LTO=62 (moderately high long-term orientation)",
+        "Governance: Presidential republic, Pancasila philosophy of pluralistic unity",
+        "Cultural consensus: The inclusive leader of a thousand islands, Gotong Royong mutual aid spirit, unity in diversity"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Active community mutual aid culture; frequent collective activities; outgoing and friendly",
+        "N_reason": "Moderately high long-term orientation (LTO=62); Pancasila's grand unifying vision; integrative thinking across diversity",
+        "F_reason": "Moderate masculinity (MAS=46) leaning cooperative; Gotong Royong mutual aid spirit",
+        "J_reason": "Structured social norms; traditional order; well-defined hierarchy"
+      },
+      "justification": "The inclusive leader of a thousand islands, unity in diversity, with extremely strong community cohesion."
+    },
+    {
+      "id": "608",
+      "iso_a3": "PHL",
+      "name_en": "Philippines",
+      "mbti": "ESFP",
+      "confidence": 5,
+      "sources": [
+        "Hofstede: PDI=94 (high power distance), MAS=64 (high masculinity), IVR=42 (moderate indulgence)",
+        "Governance: Presidential republic, American-influenced political tradition",
+        "Cultural consensus: A natural-born happiness machine, KTV culture, optimistic to the bone"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Enthusiastic and outgoing social culture; singing and socializing as a survival skill; abundant festivals",
+        "S_reason": "Living-in-the-moment optimism; sensory enjoyment and concrete experience-oriented",
+        "F_reason": "Extremely strong family emotional bonds; bayanihan mutual aid spirit; warm and friendly",
+        "P_reason": "Flexible and easygoing sense of time (Filipino time); exceptionally adaptable"
+      },
+      "justification": "A natural-born happiness machine, where singing and dancing are survival skills, optimistic to the core."
+    },
+    {
+      "id": "104",
+      "iso_a3": "MMR",
+      "name_en": "Myanmar",
+      "mbti": "ISFJ",
+      "confidence": 3,
+      "sources": [
+        "Hofstede cultural dimensions: PDI=75, IDV=18, MAS=35, UAI=60, LTO=50, IVR=30",
+        "Low individualism (18), collectivist culture, group-centered social life (I)",
+        "Cultural consensus: A devout and reserved Buddhist nation, with deeply rooted traditional values, gentle yet resilient."
+      ],
+      "dimension_analysis": {
+        "I_reason": "Introversion inferred from cultural characteristics",
+        "S_reason": "Sensing preference inferred from cultural characteristics",
+        "F_reason": "Feeling preference inferred from cultural characteristics",
+        "J_reason": "Judging preference inferred from cultural characteristics"
+      },
+      "justification": "A devout and reserved Buddhist nation, with deeply rooted traditional values, gentle yet resilient."
+    },
+    {
+      "id": "116",
+      "iso_a3": "KHM",
+      "name_en": "Cambodia",
+      "mbti": "ISFP",
+      "confidence": 3,
+      "sources": [
+        "Hofstede cultural dimensions: PDI=75, IDV=15, MAS=35, UAI=55, LTO=45, IVR=40",
+        "Low individualism (15), collectivist culture, group-centered social life (I)",
+        "Cultural consensus: The gentle descendants of Angkor civilization, maintaining inner peace and artistic sensibility amid historical trauma."
+      ],
+      "dimension_analysis": {
+        "I_reason": "Introversion inferred from cultural characteristics",
+        "S_reason": "Sensing preference inferred from cultural characteristics",
+        "F_reason": "Feeling preference inferred from cultural characteristics",
+        "P_reason": "Perceiving preference inferred from cultural characteristics"
+      },
+      "justification": "The gentle descendants of Angkor civilization, maintaining inner peace and artistic sensibility amid historical trauma."
+    },
+    {
+      "id": "418",
+      "iso_a3": "LAO",
+      "name_en": "Laos",
+      "mbti": "ISFP",
+      "confidence": 3,
+      "sources": [
+        "Hofstede cultural dimensions: PDI=72, IDV=15, MAS=32, UAI=50, LTO=50, IVR=35",
+        "Low individualism (15), collectivist culture, group-centered social life (I)",
+        "Cultural consensus: The most laid-back country in Southeast Asia, at peace with the world, living the slow life by the Mekong River."
+      ],
+      "dimension_analysis": {
+        "I_reason": "Introversion inferred from cultural characteristics",
+        "S_reason": "Sensing preference inferred from cultural characteristics",
+        "F_reason": "Feeling preference inferred from cultural characteristics",
+        "P_reason": "Perceiving preference inferred from cultural characteristics"
+      },
+      "justification": "The most laid-back country in Southeast Asia, at peace with the world, living the slow life by the Mekong River."
+    },
+    {
+      "id": "496",
+      "iso_a3": "MNG",
+      "name_en": "Mongolia",
+      "mbti": "ISTP",
+      "confidence": 4,
+      "sources": [
+        "Limited Hofstede data, inferred from cultural observations",
+        "Governance: Semi-presidential republic, nomadic traditions and democratization",
+        "Cultural consensus: Lone rangers of the steppe, nomadic spirit, freedom and independence, wrestling culture"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Solitude on the vast steppe; independence of nomadic life",
+        "S_reason": "Pragmatic survival skills; hands-on aspects of nomadic life",
+        "T_reason": "Survival rationality; independent judgment; pragmatic decision-making",
+        "P_reason": "Flexibility of nomadic life; adapting to natural changes"
+      },
+      "justification": "A lone ranger of the steppe, free and independent, with a pragmatic nomadic spirit."
+    },
+    {
+      "id": "408",
+      "iso_a3": "PRK",
+      "name_en": "North Korea",
+      "mbti": "ISTJ",
+      "confidence": 5,
+      "sources": [
+        "Hofstede inferred data: Extremely high PDI / extremely low IDV / high MAS / high UAI / high LTO / extremely low IVR",
+        "Governance: One-party hereditary socialist republic, Juche ideology",
+        "Cultural consensus: Extreme emphasis on order and collective unity, strict rules, the entire nation marches in step"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Isolated from the world; information lockdown; collectivism suppresses individual expression",
+        "S_reason": "Pragmatic survival orientation; traditional values; concrete execution",
+        "T_reason": "Militarized management; discipline above all; systematic thinking",
+        "J_reason": "Extremely structured social system; rules above all; everything according to plan"
+      },
+      "justification": "Extreme emphasis on order and collective unity, strict rules, traditional values above all."
+    },
+    {
+      "id": "158",
+      "iso_a3": "TWN",
+      "name_en": "Taiwan",
+      "mbti": "ENFP",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: LTO=93 (extremely high long-term orientation), PDI=58 (moderate power distance), UAI=69 (moderately high uncertainty avoidance)",
+        "Governance: Semi-presidential democracy, tech industry-led economy",
+        "Cultural consensus: A warm and friendly creative island, night market culture, bubble tea, semiconductor powerhouse"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Night market social culture; warm and friendly; abundant collective activities",
+        "N_reason": "Extremely high long-term orientation (LTO=93); semiconductor innovation; creative industries",
+        "F_reason": "Moderate masculinity (MAS=45) leaning cooperative; warm and friendly social atmosphere",
+        "P_reason": "Flexible entrepreneurial culture; diverse and open; highly adaptable"
+      },
+      "justification": "A warm and friendly creative island, where night market culture and tech innovation coexist, free-spirited and expressive."
+    },
+    {
+      "id": "344",
+      "iso_a3": "HKG",
+      "name_en": "Hong Kong",
+      "mbti": "ESTJ",
+      "confidence": 5,
+      "sources": [
+        "Hofstede: LTO=61 (moderately high long-term orientation), PDI=68 (moderately high power distance), MAS=57 (moderate masculinity)",
+        "Governance: Special Administrative Region, international financial center, common law system",
+        "Cultural consensus: Efficiency above all, fast-paced, commercial capital, pragmatic and efficient"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Active international business social scene; fast-paced outgoing lifestyle",
+        "S_reason": "Pragmatic business culture; focus on concrete efficiency and results",
+        "T_reason": "Rational business decision-making; competition-oriented; efficiency above all",
+        "J_reason": "Rigorous legal system; strong sense of punctuality; highly organized"
+      },
+      "justification": "An efficiency-driven commercial capital, fast-paced lifestyle, pragmatic and highly efficient."
+    },
+    {
+      "id": "446",
+      "iso_a3": "MAC",
+      "name_en": "Macau",
+      "mbti": "ESTP",
+      "confidence": 3,
+      "sources": [
+        "Limited Hofstede data, inferred from Hong Kong data",
+        "Governance: Special Administrative Region, gaming industry-dominated economy",
+        "Cultural consensus: The Las Vegas of the East, casino gambling spirit, Portuguese cultural fusion"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Vibrant casino social culture; frequent tourist interactions; outgoing and stimulating",
+        "S_reason": "Concrete sensory stimulation of gambling; pragmatic business culture",
+        "T_reason": "Business rationality; probability calculation; rationality within risk-taking",
+        "P_reason": "The flexible randomness of gambling; adapting to rapid changes"
+      },
+      "justification": "The adventurous spirit of the casino city, willing to bet big, seeking opportunities amid the thrill."
+    },
+    {
+      "id": "554",
+      "iso_a3": "NZL",
+      "name_en": "New Zealand",
+      "mbti": "INFP",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: IDV=79 (high individualism), MAS=58 (moderate masculinity), IVR=75 (high indulgence)",
+        "Governance: Parliamentary monarchy (Commonwealth), progressive pioneer",
+        "Cultural consensus: Middle-earth, idealistic environmental pioneer, gentle and resolute, Maori cultural integration"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Geographic isolation fosters introspection; a quiet and understated international image",
+        "N_reason": "The imagination of Middle-earth; environmental idealism; forward-looking social policies",
+        "F_reason": "Moderate masculinity (MAS=58) but culturally gentle and inclusive; the caring spirit of Maori culture",
+        "P_reason": "Moderate uncertainty avoidance (UAI=49); flexible and open; experimental policies"
+      },
+      "justification": "Middle-earth on our planet, an idealistic environmental pioneer, gentle yet resolute."
+    },
+    {
+      "id": "032",
+      "iso_a3": "ARG",
+      "name_en": "Argentina",
+      "mbti": "ENFP",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: UAI=86 (high uncertainty avoidance), IDV=46 (moderate individualism), IVR=62 (moderate indulgence)",
+        "Governance: Federal presidential republic, oscillating economic policies, populist tradition",
+        "Cultural consensus: Passionate and romantic, football and tango are the soul, intensely emotional, romantic dreamers"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Enthusiastic and outgoing social culture; the intimate interaction of tango; football passion",
+        "N_reason": "Romantic idealism; literary tradition (Borges); dreamer temperament",
+        "F_reason": "Moderate masculinity (MAS=56) but extremely passionate cultural expression; emotion above all",
+        "P_reason": "Flexible adaptation (economic crisis management); improvisational culture (tango improvisation)"
+      },
+      "justification": "A passionate romantic, with football and tango as the language of the soul."
+    },
+    {
+      "id": "152",
+      "iso_a3": "CHL",
+      "name_en": "Chile",
+      "mbti": "INTJ",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: UAI=86 (high uncertainty avoidance), IDV=23 (collectivist), MAS=28 (low masculinity)",
+        "Governance: Presidential republic, the most rationally managed economy in South America",
+        "Cultural consensus: The most rational country in South America, economic star student, independent thinking, strategic vision shaped by its narrow geography"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Collectivist (IDV=23) but reserved in expression; the most understated and calm in South America",
+        "N_reason": "Strong economic strategic planning capability; tradition of independent thinking; long-term vision",
+        "T_reason": "Rational economic management; the least emotionally-driven decision-making style in South America",
+        "J_reason": "High uncertainty avoidance (UAI=86); well-established institutional framework; strong planning orientation"
+      },
+      "justification": "The most rational country in South America, with excellent economic management, an independent-thinking strategist."
+    },
+    {
+      "id": "170",
+      "iso_a3": "COL",
+      "name_en": "Colombia",
+      "mbti": "ESFP",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: IVR=83 (high indulgence), MAS=64 (high masculinity), UAI=80 (high uncertainty avoidance)",
+        "Governance: Presidential republic, in the midst of a peace process",
+        "Cultural consensus: A fiery party nation, music and dance as necessities, reggaeton culture"
+      ],
+      "dimension_analysis": {
+        "E_reason": "High indulgence index (IVR=83); enthusiastic socializing; outgoing music and dance culture",
+        "S_reason": "Sensory enjoyment-oriented; living-in-the-moment optimism",
+        "F_reason": "Strong family and community bonds; rich human warmth; warm and friendly",
+        "P_reason": "Flexible and easygoing life attitude; improvisational music and dance culture"
+      },
+      "justification": "A fiery party nation, where music and dance are life's essentials."
+    },
+    {
+      "id": "604",
+      "iso_a3": "PER",
+      "name_en": "Peru",
+      "mbti": "ISFJ",
+      "confidence": 3,
+      "sources": [
+        "Hofstede cultural dimensions: PDI=64, IDV=16, MAS=42, UAI=87, LTO=25, IVR=46",
+        "Low individualism (16), collectivist culture, group-centered social life (I)",
+        "Cultural consensus: A faithful guardian of Incan civilization, where tradition and modernity intertwine, understated yet profound."
+      ],
+      "dimension_analysis": {
+        "I_reason": "Introversion inferred from cultural characteristics",
+        "S_reason": "Sensing preference inferred from cultural characteristics",
+        "F_reason": "Feeling preference inferred from cultural characteristics",
+        "J_reason": "Judging preference inferred from cultural characteristics"
+      },
+      "justification": "A faithful guardian of Incan civilization, where tradition and modernity intertwine, understated yet profound."
+    },
+    {
+      "id": "484",
+      "iso_a3": "MEX",
+      "name_en": "Mexico",
+      "mbti": "ESFP",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: IVR=97 (extremely high indulgence), MAS=69 (high masculinity), UAI=82 (high uncertainty avoidance)",
+        "Governance: Federal presidential republic, revolutionary tradition",
+        "Cultural consensus: A colorful hedonist, Day of the Dead turns death into a carnival, tacos and tequila"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Extremely high indulgence index (IVR=97); social celebration culture; enthusiastic and outgoing",
+        "S_reason": "Sensory enjoyment culture (food/music/color); living in the moment",
+        "F_reason": "Extremely strong family emotional bonds; community care; rich human warmth",
+        "P_reason": "Flexible sense of time; improvisational celebration culture; enjoyment over planning"
+      },
+      "justification": "A colorful hedonist, who can turn even death into a carnival."
+    },
+    {
+      "id": "192",
+      "iso_a3": "CUB",
+      "name_en": "Cuba",
+      "mbti": "ESFP",
+      "confidence": 4,
+      "sources": [
+        "Limited Hofstede data, inferred from cultural observations",
+        "Governance: One-party socialist republic, revolutionary legacy",
+        "Cultural consensus: A free Caribbean soul, music cigars and rum, a rolling museum of vintage cars, overflowing with passion"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Enthusiastic and outgoing social culture; music and dance are the heart of public life",
+        "S_reason": "Living-in-the-moment attitude; sensory enjoyment (music/dance/cigars)",
+        "F_reason": "Extremely strong community emotional bonds; warm interpersonal relationships",
+        "P_reason": "Flexible adaptation to material scarcity; improvisational creativity; easygoing lifestyle"
+      },
+      "justification": "A free spirit of the Caribbean, where music and cigars are all of life."
+    },
+    {
+      "id": "218",
+      "iso_a3": "ECU",
+      "name_en": "Ecuador",
+      "mbti": "ISFP",
+      "confidence": 3,
+      "sources": [
+        "Hofstede cultural dimensions: PDI=78, IDV=8, MAS=63, UAI=67",
+        "Low individualism (8), collectivist culture, group-centered social life (I)",
+        "Cultural consensus: A natural artist on the equator, a paradise of biodiversity, quietly savoring nature's gifts."
+      ],
+      "dimension_analysis": {
+        "I_reason": "Introversion inferred from cultural characteristics",
+        "S_reason": "Sensing preference inferred from cultural characteristics",
+        "F_reason": "Feeling preference inferred from cultural characteristics",
+        "P_reason": "Perceiving preference inferred from cultural characteristics"
+      },
+      "justification": "A natural artist on the equator, a paradise of biodiversity, quietly savoring nature's gifts."
+    },
+    {
+      "id": "858",
+      "iso_a3": "URY",
+      "name_en": "Uruguay",
+      "mbti": "INFP",
+      "confidence": 3,
+      "sources": [
+        "Hofstede cultural dimensions: PDI=61, IDV=36, MAS=38, UAI=100, LTO=26, IVR=53",
+        "Moderate individualism (36), coexistence of individual and collective values (I)",
+        "Cultural consensus: The Switzerland of South America, a progressive and inclusive small nation, quietly being itself."
+      ],
+      "dimension_analysis": {
+        "I_reason": "Introversion inferred from cultural characteristics",
+        "N_reason": "Intuition inferred from cultural characteristics",
+        "F_reason": "Feeling preference inferred from cultural characteristics",
+        "P_reason": "Perceiving preference inferred from cultural characteristics"
+      },
+      "justification": "The Switzerland of South America, a progressive and inclusive small nation, quietly being itself."
+    },
+    {
+      "id": "862",
+      "iso_a3": "VEN",
+      "name_en": "Venezuela",
+      "mbti": "ENFP",
+      "confidence": 3,
+      "sources": [
+        "Hofstede cultural dimensions: PDI=81, IDV=12, MAS=73, UAI=76, LTO=16, IVR=100",
+        "Low individualism (12), collectivist culture, group-centered social life (I)",
+        "Cultural consensus: The cradle of beauty queens, a romantic and passionate but ill-fated dreamer."
+      ],
+      "dimension_analysis": {
+        "E_reason": "Extraversion inferred from cultural characteristics",
+        "N_reason": "Intuition inferred from cultural characteristics",
+        "F_reason": "Feeling preference inferred from cultural characteristics",
+        "P_reason": "Perceiving preference inferred from cultural characteristics"
+      },
+      "justification": "The cradle of beauty queens, a romantic and passionate but ill-fated dreamer."
+    },
+    {
+      "id": "068",
+      "iso_a3": "BOL",
+      "name_en": "Bolivia",
+      "mbti": "ISFP",
+      "confidence": 3,
+      "sources": [
+        "Hofstede cultural dimensions: PDI=75, IDV=12, MAS=50, UAI=75, LTO=25, IVR=45",
+        "Low individualism (12), collectivist culture, group-centered social life (I)",
+        "Cultural consensus: The artistic soul of the Andes, with deeply rooted indigenous culture, living in harmony with nature."
+      ],
+      "dimension_analysis": {
+        "I_reason": "Introversion inferred from cultural characteristics",
+        "S_reason": "Sensing preference inferred from cultural characteristics",
+        "F_reason": "Feeling preference inferred from cultural characteristics",
+        "P_reason": "Perceiving preference inferred from cultural characteristics"
+      },
+      "justification": "The artistic soul of the Andes, with deeply rooted indigenous culture, living in harmony with nature."
+    },
+    {
+      "id": "600",
+      "iso_a3": "PRY",
+      "name_en": "Paraguay",
+      "mbti": "ISFJ",
+      "confidence": 3,
+      "sources": [
+        "Hofstede cultural dimensions: PDI=70, IDV=15, MAS=50, UAI=75, LTO=20, IVR=55",
+        "Low individualism (15), collectivist culture, group-centered social life (I)",
+        "Cultural consensus: The understated guardian of South America's heartland, traditional and pragmatic, at peace with the world."
+      ],
+      "dimension_analysis": {
+        "I_reason": "Introversion inferred from cultural characteristics",
+        "S_reason": "Sensing preference inferred from cultural characteristics",
+        "F_reason": "Feeling preference inferred from cultural characteristics",
+        "J_reason": "Judging preference inferred from cultural characteristics"
+      },
+      "justification": "The understated guardian of South America's heartland, traditional and pragmatic, at peace with the world."
+    },
+    {
+      "id": "320",
+      "iso_a3": "GTM",
+      "name_en": "Guatemala",
+      "mbti": "ISFP",
+      "confidence": 3,
+      "sources": [
+        "Hofstede cultural dimensions: PDI=95, IDV=6, MAS=37, UAI=101",
+        "Low individualism (6), collectivist culture, group-centered social life (I)",
+        "Cultural consensus: Heir to Maya civilization, with a colorful handicraft tradition, a quiet artist."
+      ],
+      "dimension_analysis": {
+        "I_reason": "Introversion inferred from cultural characteristics",
+        "S_reason": "Sensing preference inferred from cultural characteristics",
+        "F_reason": "Feeling preference inferred from cultural characteristics",
+        "P_reason": "Perceiving preference inferred from cultural characteristics"
+      },
+      "justification": "Heir to Maya civilization, with a colorful handicraft tradition, a quiet artist."
+    },
+    {
+      "id": "188",
+      "iso_a3": "CRI",
+      "name_en": "Costa Rica",
+      "mbti": "INFP",
+      "confidence": 3,
+      "sources": [
+        "Hofstede cultural dimensions: PDI=35, IDV=15, MAS=21, UAI=86",
+        "Low individualism (15), collectivist culture, group-centered social life (I)",
+        "Cultural consensus: A pacifist without an army, an environmental pioneer, where Pura Vida is a life philosophy."
+      ],
+      "dimension_analysis": {
+        "I_reason": "Introversion inferred from cultural characteristics",
+        "N_reason": "Intuition inferred from cultural characteristics",
+        "F_reason": "Feeling preference inferred from cultural characteristics",
+        "P_reason": "Perceiving preference inferred from cultural characteristics"
+      },
+      "justification": "A pacifist without an army, an environmental pioneer, where Pura Vida is a life philosophy."
+    },
+    {
+      "id": "591",
+      "iso_a3": "PAN",
+      "name_en": "Panama",
+      "mbti": "ESTP",
+      "confidence": 3,
+      "sources": [
+        "Hofstede cultural dimensions: PDI=95, IDV=11, MAS=44, UAI=86",
+        "Low individualism (11), collectivist culture, group-centered social life (I)",
+        "Cultural consensus: A commercial adventurer of the canal nation, with the strategic vision and drive to connect two oceans."
+      ],
+      "dimension_analysis": {
+        "E_reason": "Extraversion inferred from cultural characteristics",
+        "S_reason": "Sensing preference inferred from cultural characteristics",
+        "T_reason": "Thinking preference inferred from cultural characteristics",
+        "P_reason": "Perceiving preference inferred from cultural characteristics"
+      },
+      "justification": "A commercial adventurer of the canal nation, with the strategic vision and drive to connect two oceans."
+    },
+    {
+      "id": "214",
+      "iso_a3": "DOM",
+      "name_en": "Dominican Republic",
+      "mbti": "ESFP",
+      "confidence": 3,
+      "sources": [
+        "Hofstede cultural dimensions: PDI=70, IDV=20, MAS=55, UAI=70, LTO=13, IVR=54",
+        "Low individualism (20), collectivist culture, group-centered social life (I)",
+        "Cultural consensus: The homeland of baseball and merengue, a fiery Caribbean soul."
+      ],
+      "dimension_analysis": {
+        "E_reason": "Extraversion inferred from cultural characteristics",
+        "S_reason": "Sensing preference inferred from cultural characteristics",
+        "F_reason": "Feeling preference inferred from cultural characteristics",
+        "P_reason": "Perceiving preference inferred from cultural characteristics"
+      },
+      "justification": "The homeland of baseball and merengue, a fiery Caribbean soul."
+    },
+    {
+      "id": "388",
+      "iso_a3": "JAM",
+      "name_en": "Jamaica",
+      "mbti": "ESFP",
+      "confidence": 5,
+      "sources": [
+        "Hofstede: MAS=68 (high masculinity), IDV=39 (moderate individualism), UAI=13 (extremely low uncertainty avoidance)",
+        "Governance: Parliamentary monarchy (Commonwealth), post-independence democratic development",
+        "Cultural consensus: Birthplace of reggae music, Bob Marley as spiritual leader, laid-back attitude, sprinting champions"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Musical social culture; enthusiastic and outgoing Caribbean attitude; highly expressive",
+        "S_reason": "Living-in-the-moment life attitude; sensory enjoyment-oriented (music/dance)",
+        "F_reason": "Community emotional bonds; emotional expression through music; One Love spirit",
+        "P_reason": "Extremely low uncertainty avoidance (UAI=13); laid-back attitude; flexible and easygoing"
+      },
+      "justification": "The birthplace of reggae, with a laid-back Caribbean attitude, where happiness is the only rule."
+    },
+    {
+      "id": "780",
+      "iso_a3": "TTO",
+      "name_en": "Trinidad and Tobago",
+      "mbti": "ESFP",
+      "confidence": 3,
+      "sources": [
+        "Hofstede cultural dimensions: PDI=47, IDV=16, MAS=58, UAI=55, LTO=13, IVR=80",
+        "Low individualism (16), collectivist culture, group-centered social life (I)",
+        "Cultural consensus: The birthplace of Caribbean Carnival, where music and celebration are life itself."
+      ],
+      "dimension_analysis": {
+        "E_reason": "Extraversion inferred from cultural characteristics",
+        "S_reason": "Sensing preference inferred from cultural characteristics",
+        "F_reason": "Feeling preference inferred from cultural characteristics",
+        "P_reason": "Perceiving preference inferred from cultural characteristics"
+      },
+      "justification": "The birthplace of Caribbean Carnival, where music and celebration are life itself."
+    },
+    {
+      "id": "340",
+      "iso_a3": "HND",
+      "name_en": "Honduras",
+      "mbti": "ISFJ",
+      "confidence": 3,
+      "sources": [
+        "Hofstede cultural dimensions: PDI=80, IDV=15, MAS=40, UAI=85, LTO=15, IVR=60",
+        "Low individualism (15), collectivist culture, group-centered social life (I)",
+        "Cultural consensus: The understated guardian of Central America, with deeply held traditional values, resilient and down-to-earth."
+      ],
+      "dimension_analysis": {
+        "I_reason": "Introversion inferred from cultural characteristics",
+        "S_reason": "Sensing preference inferred from cultural characteristics",
+        "F_reason": "Feeling preference inferred from cultural characteristics",
+        "J_reason": "Judging preference inferred from cultural characteristics"
+      },
+      "justification": "The understated guardian of Central America, with deeply held traditional values, resilient and down-to-earth."
+    },
+    {
+      "id": "222",
+      "iso_a3": "SLV",
+      "name_en": "El Salvador",
+      "mbti": "ESTP",
+      "confidence": 3,
+      "sources": [
+        "Hofstede: IVR=89 (high indulgence), UAI=94 (high uncertainty avoidance), PDI=66 (moderately high power distance)",
+        "Governance: Presidential republic, Bitcoin legal tender pioneer",
+        "Cultural consensus: The boldest country in Central America, the world's first Bitcoin legal tender, adventurous spirit"
+      ],
+      "dimension_analysis": {
+        "E_reason": "High indulgence index (IVR=89); socially active; action-oriented and outgoing",
+        "S_reason": "Pragmatic and action-oriented; focused on concrete economic experiments",
+        "T_reason": "Bold and rational economic decisions (Bitcoin policy); pragmatic",
+        "P_reason": "Flexible risk-taking; willing to break with tradition; experimental spirit"
+      },
+      "justification": "The boldest action-taker in Central America, making Bitcoin legal tender as a pioneering global experiment."
+    },
+    {
+      "id": "558",
+      "iso_a3": "NIC",
+      "name_en": "Nicaragua",
+      "mbti": "ISFP",
+      "confidence": 3,
+      "sources": [
+        "Hofstede cultural dimensions: PDI=78, IDV=15, MAS=38, UAI=80, LTO=15, IVR=55",
+        "Low individualism (15), collectivist culture, group-centered social life (I)",
+        "Cultural consensus: The poetry nation of Central America, with magnificent natural scenery, maintaining an artistic soul amid turbulence."
+      ],
+      "dimension_analysis": {
+        "I_reason": "Introversion inferred from cultural characteristics",
+        "S_reason": "Sensing preference inferred from cultural characteristics",
+        "F_reason": "Feeling preference inferred from cultural characteristics",
+        "P_reason": "Perceiving preference inferred from cultural characteristics"
+      },
+      "justification": "The poetry nation of Central America, with magnificent natural scenery, maintaining an artistic soul amid turbulence."
+    },
+    {
+      "id": "332",
+      "iso_a3": "HTI",
+      "name_en": "Haiti",
+      "mbti": "ENFP",
+      "confidence": 3,
+      "sources": [
+        "Limited Hofstede data, inferred from Caribbean cultural sphere",
+        "Governance: Semi-presidential republic, the first Black independent republic",
+        "Cultural consensus: The world's first Black republic, voodoo culture, still dancing amid the ruins"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Enthusiastic and outgoing Caribbean culture; music and dance socializing",
+        "N_reason": "The idealistic spirit of the independence revolution; the mystical imagination of voodoo culture",
+        "F_reason": "Community mutual aid spirit; interpersonal warmth in adversity",
+        "P_reason": "Flexible adaptation to extreme hardship; improvisational survival creativity"
+      },
+      "justification": "The world's first Black republic, with an undying revolutionary idealist spirit, maintaining passion and hope in adversity."
+    },
+    {
+      "id": "012",
+      "iso_a3": "DZA",
+      "name_en": "Algeria",
+      "mbti": "ISTP",
+      "confidence": 3,
+      "sources": [
+        "Hofstede cultural dimensions: PDI=75, IDV=35, MAS=50, UAI=70, LTO=26, IVR=32",
+        "Moderate individualism (35), coexistence of individual and collective values (I)",
+        "Cultural consensus: The largest country in Africa by area, with a strong spirit of independence, pragmatic and understated."
+      ],
+      "dimension_analysis": {
+        "I_reason": "Introversion inferred from cultural characteristics",
+        "S_reason": "Sensing preference inferred from cultural characteristics",
+        "T_reason": "Thinking preference inferred from cultural characteristics",
+        "P_reason": "Perceiving preference inferred from cultural characteristics"
+      },
+      "justification": "The largest country in Africa by area, with a strong spirit of independence, pragmatic and understated."
+    },
+    {
+      "id": "788",
+      "iso_a3": "TUN",
+      "name_en": "Tunisia",
+      "mbti": "ENFP",
+      "confidence": 3,
+      "sources": [
+        "Hofstede cultural dimensions: PDI=72, IDV=35, MAS=45, UAI=72, LTO=30, IVR=35",
+        "Moderate individualism (35), coexistence of individual and collective values (I)",
+        "Cultural consensus: The starting point of the Arab Spring, a pioneer in the pursuit of freedom and change."
+      ],
+      "dimension_analysis": {
+        "E_reason": "Extraversion inferred from cultural characteristics",
+        "N_reason": "Intuition inferred from cultural characteristics",
+        "F_reason": "Feeling preference inferred from cultural characteristics",
+        "P_reason": "Perceiving preference inferred from cultural characteristics"
+      },
+      "justification": "The starting point of the Arab Spring, a pioneer in the pursuit of freedom and change."
+    },
+    {
+      "id": "434",
+      "iso_a3": "LBY",
+      "name_en": "Libya",
+      "mbti": "ISTP",
+      "confidence": 3,
+      "sources": [
+        "Hofstede cultural dimensions: PDI=80, IDV=38, MAS=53, UAI=68",
+        "Moderate individualism (38), coexistence of individual and collective values (I)",
+        "Cultural consensus: A loner of the desert, rich in resources but fiercely independent and stubborn."
+      ],
+      "dimension_analysis": {
+        "I_reason": "Introversion inferred from cultural characteristics",
+        "S_reason": "Sensing preference inferred from cultural characteristics",
+        "T_reason": "Thinking preference inferred from cultural characteristics",
+        "P_reason": "Perceiving preference inferred from cultural characteristics"
+      },
+      "justification": "A loner of the desert, rich in resources but fiercely independent and stubborn."
+    },
+    {
+      "id": "768",
+      "iso_a3": "TGO",
+      "name_en": "Togo",
+      "mbti": "ISFJ",
+      "confidence": 3,
+      "sources": [
+        "Limited Hofstede data, inferred from West African cultural sphere",
+        "Governance: Presidential republic, regional role in West Africa",
+        "Cultural consensus: The quiet neighbor of West Africa, deeply traditional, home to the world's largest voodoo market"
+      ],
+      "dimension_analysis": {
+        "I_reason": "A quiet and low-profile West African small nation; traditionally reserved",
+        "S_reason": "Traditional and pragmatic; focused on concrete community life and rituals",
+        "F_reason": "Tight-knit community relationships; interpersonal care rooted in traditional values",
+        "J_reason": "Traditional social norms and order; stable community structure"
+      },
+      "justification": "The quiet neighbor of West Africa, with deeply held traditional values and tight-knit community relationships."
+    },
+    {
+      "id": "694",
+      "iso_a3": "SLE",
+      "name_en": "Sierra Leone",
+      "mbti": "ESFJ",
+      "confidence": 3,
+      "sources": [
+        "Hofstede cultural dimensions: PDI=77, IDV=20, MAS=46, UAI=54, LTO=15, IVR=50",
+        "Low individualism (20), collectivist culture, group-centered social life (I)",
+        "Cultural consensus: From blood diamonds to peace, a passionate nation with an extremely strong community mutual aid spirit."
+      ],
+      "dimension_analysis": {
+        "E_reason": "Extraversion inferred from cultural characteristics",
+        "S_reason": "Sensing preference inferred from cultural characteristics",
+        "F_reason": "Feeling preference inferred from cultural characteristics",
+        "J_reason": "Judging preference inferred from cultural characteristics"
+      },
+      "justification": "From blood diamonds to peace, a passionate nation with an extremely strong community mutual aid spirit."
+    },
+    {
+      "id": "384",
+      "iso_a3": "CIV",
+      "name_en": "Ivory Coast",
+      "mbti": "ENTJ",
+      "confidence": 3,
+      "sources": [
+        "Limited Hofstede data, inferred from cultural observations",
+        "Governance: Presidential republic, the economic engine of West Africa",
+        "Cultural consensus: The world's largest cocoa bean producer, economic leader of West Africa, full of dynamism"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Outward economic vitality; active business social scene; leadership stance in West Africa",
+        "N_reason": "Strategic vision for economic development; building regional influence",
+        "T_reason": "Rational economic decision-making; business-oriented; pursuit of competitiveness",
+        "J_reason": "Economic planning and organizational capability; leadership role in ECOWAS"
+      },
+      "justification": "The powerhouse leader of the West African economy, the world's largest cocoa producer, full of vitality and ambition."
+    },
+    {
+      "id": "686",
+      "iso_a3": "SEN",
+      "name_en": "Senegal",
+      "mbti": "ENFJ",
+      "confidence": 4,
+      "sources": [
+        "Limited Hofstede data, inferred from cultural observations",
+        "Governance: Presidential republic, a democratic model in West Africa",
+        "Cultural consensus: World-renowned for its teranga (hospitality) spirit, a cultural beacon, a model of African democracy"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Teranga hospitality culture; socially active; warmly outgoing",
+        "N_reason": "Cultural influence far exceeding national power; Pan-African intellectual tradition",
+        "F_reason": "Humanistic care embedded in teranga spirit; extremely strong community bonds",
+        "J_reason": "Democratic institution-building; organized social structure; traditional norms"
+      },
+      "justification": "The cultural beacon of West Africa, warm and hospitable, world-renowned for its teranga spirit."
+    },
+    {
+      "id": "024",
+      "iso_a3": "AGO",
+      "name_en": "Angola",
+      "mbti": "ENTJ",
+      "confidence": 3,
+      "sources": [
+        "Limited Hofstede data; inferred from Southern African/Lusophone cultural sphere",
+        "Governance: Presidential republic, oil economy + post-war reconstruction",
+        "Cultural consensus: An emerging African power, resource-rich, showing strategic action in reconstruction"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Outgoing culture of kuduro dance; active resource diplomacy",
+        "N_reason": "Strategic planning for post-war reconstruction; economic development vision",
+        "T_reason": "Resource-driven rational decision-making; execution in reconstruction",
+        "J_reason": "Organizational planning for national reconstruction; restoring order"
+      },
+      "justification": "An emerging strategic force in Africa, rich in resources, demonstrating planning and action in national reconstruction."
+    },
+    {
+      "id": "508",
+      "iso_a3": "MOZ",
+      "name_en": "Mozambique",
+      "mbti": "ISFP",
+      "confidence": 3,
+      "sources": [
+        "Limited Hofstede data; inferred from Southeast African/Lusophone cultural sphere",
+        "Governance: Presidential republic, transitioning from war to peace",
+        "Cultural consensus: A quiet soul by the Indian Ocean, AK-47 on the national flag, beautiful coastline"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Quiet coastal culture; low-key and humble",
+        "S_reason": "Practical coastal living; concrete natural experiences",
+        "F_reason": "Warm community relationships; pursuit of peace",
+        "P_reason": "Flexible adaptation to change; transformative power from war to peace"
+      },
+      "justification": "A quiet soul by the Indian Ocean, with a long coastline, finding peace in nature."
+    },
+    {
+      "id": "180",
+      "iso_a3": "COD",
+      "name_en": "DR Congo",
+      "mbti": "ENTP",
+      "confidence": 3,
+      "sources": [
+        "Limited Hofstede data; inferred from Central African cultural sphere",
+        "Governance: Semi-presidential republic, resource-rich but governance challenges",
+        "Cultural consensus: The wellspring of creativity in Africa's heartland, Congolese rumba influenced music across the continent"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Outgoing musical culture of Congolese rumba; rich social celebrations",
+        "N_reason": "Musical innovation influencing all of Africa; exceptional creativity",
+        "T_reason": "Rational survival wisdom under difficult conditions",
+        "P_reason": "Flexible innovation in facing challenges; improvisational music culture"
+      },
+      "justification": "The creative engine of Africa's heartland, Congolese rumba influenced music across the continent, with a thriving spirit of innovation."
+    },
+    {
+      "id": "178",
+      "iso_a3": "COG",
+      "name_en": "Republic of the Congo",
+      "mbti": "ESFP",
+      "confidence": 3,
+      "sources": [
+        "Limited Hofstede data; inferred from Central African cultural sphere",
+        "Governance: Presidential republic, oil economy",
+        "Cultural consensus: Birthplace of Sapeur fashion culture, staying elegant under any circumstances"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Outward display of Sapeur culture; strong social expression",
+        "S_reason": "Sensory enjoyment and outward display (fashion styling); attention to concrete details",
+        "F_reason": "Emotional expression and personal style of Sapeur culture; community bonds",
+        "P_reason": "Flexible and creative attitude toward life; maintaining elegance through hardship"
+      },
+      "justification": "Birthplace of Sapeur fashion culture, staying elegant under any circumstances."
+    },
+    {
+      "id": "120",
+      "iso_a3": "CMR",
+      "name_en": "Cameroon",
+      "mbti": "ENTP",
+      "confidence": 3,
+      "sources": [
+        "Limited Hofstede data; inferred from cultural observation",
+        "Governance: Presidential republic, bilingual country (French/English)",
+        "Cultural consensus: Africa in miniature, creative sparks from multicultural collision, football talent"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Active multicultural interaction; passionate football culture; rich social life",
+        "N_reason": "Creativity from multicultural collision; inclusive thinking as a microcosm of Africa",
+        "T_reason": "Pragmatic multicultural management; competitive sports spirit",
+        "P_reason": "Flexible response to diverse challenges; strong adaptability"
+      },
+      "justification": "Africa in miniature, sparks of innovation from multicultural collisions, gifted in football."
+    },
+    {
+      "id": "854",
+      "iso_a3": "BFA",
+      "name_en": "Burkina Faso",
+      "mbti": "ISFJ",
+      "confidence": 3,
+      "sources": [
+        "Hofstede dimensions: PDI=77, IDV=18, MAS=44, UAI=54, LTO=27, IVR=18",
+        "Low individualism (18), collectivist culture, group-centered social life (I)",
+        "Cultural consensus: The land of upright people, with deep traditional values, humble and resilient."
+      ],
+      "dimension_analysis": {
+        "I_reason": "Introverted tendency inferred from cultural characteristics",
+        "S_reason": "Sensing tendency inferred from cultural characteristics",
+        "F_reason": "Feeling tendency inferred from cultural characteristics",
+        "J_reason": "Judging tendency inferred from cultural characteristics"
+      },
+      "justification": "The land of upright people, with deep traditional values, humble and resilient."
+    },
+    {
+      "id": "466",
+      "iso_a3": "MLI",
+      "name_en": "Mali",
+      "mbti": "ENFP",
+      "confidence": 3,
+      "sources": [
+        "Limited Hofstede data; inferred from cultural observation",
+        "Governance: Transitional government, historical empire tradition",
+        "Cultural consensus: Timbuktu academic center, musical paradise, rich oral tradition"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Extremely rich musical social culture; outward expression of oral tradition; griot culture",
+        "N_reason": "Timbuktu's knowledge tradition; imaginative oral literature",
+        "F_reason": "Community emotional bonds; musical emotional expression; interpersonal care",
+        "P_reason": "Flexible oral tradition; improvisational music culture; adaptability"
+      },
+      "justification": "A passionate spreader of music and knowledge; Timbuktu was once a world academic center, with a unique griot oral tradition."
+    },
+    {
+      "id": "562",
+      "iso_a3": "NER",
+      "name_en": "Niger",
+      "mbti": "ISTJ",
+      "confidence": 3,
+      "sources": [
+        "Limited Hofstede data; inferred from West African cultural sphere",
+        "Governance: Military transitional government, Sahara's edge",
+        "Cultural consensus: Steadfast guardian at the Sahara's edge, nomadic tradition, a treasure trove of dinosaur fossils"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Quiet life at the edge of the Sahara; traditionally reserved",
+        "S_reason": "Practical desert survival wisdom; traditional skills-oriented",
+        "T_reason": "Rational survival decisions in a harsh environment",
+        "J_reason": "Traditional nomadic order and social norms; structured tribal systems"
+      },
+      "justification": "A steadfast guardian at the edge of the Sahara, with traditional nomadic culture, maintaining order in a harsh environment."
+    },
+    {
+      "id": "148",
+      "iso_a3": "TCD",
+      "name_en": "Chad",
+      "mbti": "ISTP",
+      "confidence": 3,
+      "sources": [
+        "Limited Hofstede data; inferred from Central African/Sahel cultural sphere",
+        "Governance: Presidential republic, the crossroads of Africa",
+        "Cultural consensus: The crossroads of Africa, demonstrating pragmatic survival ability in harsh conditions"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Pragmatic and low-key survival approach; quietly resilient",
+        "S_reason": "Practical survival skills; focus on concrete daily life",
+        "T_reason": "Rational pragmatism in a harsh environment; survival wisdom",
+        "P_reason": "Flexible adaptation to extreme environments and political changes"
+      },
+      "justification": "The crossroads of Africa, demonstrating pragmatic survival ability in a harsh environment."
+    },
+    {
+      "id": "729",
+      "iso_a3": "SDN",
+      "name_en": "Sudan",
+      "mbti": "ISTJ",
+      "confidence": 3,
+      "sources": [
+        "Limited Hofstede data; inferred from North African/Sahel cultural sphere",
+        "Governance: Transitional military government, in civil war",
+        "Cultural consensus: Heir to Nubian civilization, more pyramids than Egypt, steadfast in tradition"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Reserved and steadfast cultural tradition; silence of the desert",
+        "S_reason": "Traditional and practical lifestyle; focus on concrete cultural heritage",
+        "T_reason": "Rational survival decisions in adversity",
+        "J_reason": "Traditional social norms and tribal structures; pursuit of order"
+      },
+      "justification": "Heir to the Nubian civilization, with firm traditional values, persevering through adversity."
+    },
+    {
+      "id": "728",
+      "iso_a3": "SSD",
+      "name_en": "South Sudan",
+      "mbti": "ENTJ",
+      "confidence": 3,
+      "sources": [
+        "Limited Hofstede data; inferred from the nation-building process",
+        "Governance: The world's youngest country (independent 2011), building a nation against the odds",
+        "Cultural consensus: Unity and leadership demonstrated in the independence movement, strategic determination in nation-building"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Collective mobilization during the independence movement; outward-facing international appeals",
+        "N_reason": "Vision-driven nation-building; future-oriented development planning",
+        "T_reason": "Rational decision-making under difficult conditions; pragmatic resource allocation",
+        "J_reason": "Organizational planning for nation-building; institutional construction efforts"
+      },
+      "justification": "The world's youngest nation, demonstrating strategic determination and organizational capability on the road to statehood."
+    },
+    {
+      "id": "706",
+      "iso_a3": "SOM",
+      "name_en": "Somalia",
+      "mbti": "ESTP",
+      "confidence": 3,
+      "sources": [
+        "Limited Hofstede data; inferred from Horn of Africa cultural sphere",
+        "Governance: Federal parliamentary republic (under reconstruction), tribal system",
+        "Cultural consensus: Highly action-oriented nomadic people, deep poetic tradition, camel culture"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Social interaction through nomadic trade; outward action-oriented",
+        "S_reason": "Practical nomadic survival skills; concrete action-oriented",
+        "T_reason": "Survival rationality; independent judgment; pragmatic decisions",
+        "P_reason": "Flexibility of nomadic life; adaptability to change"
+      },
+      "justification": "A highly action-oriented nomadic people, demonstrating survival wisdom amidst chaos."
+    },
+    {
+      "id": "716",
+      "iso_a3": "ZWE",
+      "name_en": "Zimbabwe",
+      "mbti": "ENTP",
+      "confidence": 3,
+      "sources": [
+        "Limited Hofstede data; inferred from cultural observation",
+        "Governance: Presidential republic, innovation amid economic turmoil",
+        "Cultural consensus: Demonstrating creativity amid extreme inflation, a resilient innovator, Victoria Falls"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Active social culture; outward response to challenges; strong expressiveness",
+        "N_reason": "Creative solutions in extreme conditions; innovative thinking",
+        "T_reason": "Pragmatic rationality demonstrated during inflation; survival wisdom",
+        "P_reason": "Exceptional adaptability and flexibility; informal economy innovation"
+      },
+      "justification": "Demonstrating creativity amid extreme hyperinflation, an innovator full of resilience."
+    },
+    {
+      "id": "894",
+      "iso_a3": "ZMB",
+      "name_en": "Zambia",
+      "mbti": "ESFJ",
+      "confidence": 3,
+      "sources": [
+        "Hofstede dimensions: PDI=64, IDV=27, MAS=41, UAI=52, LTO=30, IVR=42",
+        "Low individualism (27), collectivist culture, group-centered social life (I)",
+        "Cultural consensus: One of the friendliest countries in Africa, with a strong sense of community, peaceful and stable."
+      ],
+      "dimension_analysis": {
+        "E_reason": "Extraverted tendency inferred from cultural characteristics",
+        "S_reason": "Sensing tendency inferred from cultural characteristics",
+        "F_reason": "Feeling tendency inferred from cultural characteristics",
+        "J_reason": "Judging tendency inferred from cultural characteristics"
+      },
+      "justification": "One of the friendliest countries in Africa, with a strong sense of community, peaceful and stable."
+    },
+    {
+      "id": "454",
+      "iso_a3": "MWI",
+      "name_en": "Malawi",
+      "mbti": "ISFJ",
+      "confidence": 3,
+      "sources": [
+        "Limited Hofstede data; inferred from Southeast African cultural sphere",
+        "Governance: Presidential republic, the warm heart of Africa",
+        "Cultural consensus: The warm heart of Africa, kind and humble people, Lake Malawi is a lifeline"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Quiet and kind social atmosphere; low-key and humble",
+        "S_reason": "Focus on concrete community life and traditions",
+        "F_reason": "Interpersonal care of the warm heart; kind and humble character",
+        "J_reason": "Traditional community structures and social norms"
+      },
+      "justification": "The warm heart of Africa, with kind and humble people and close-knit traditional community ties."
+    },
+    {
+      "id": "450",
+      "iso_a3": "MDG",
+      "name_en": "Madagascar",
+      "mbti": "INTP",
+      "confidence": 3,
+      "sources": [
+        "Limited Hofstede data; inferred from cultural observation",
+        "Governance: Semi-presidential republic, unique island ecology",
+        "Cultural consensus: A unique ecological island with 90% endemic species, isolated and uniquely evolved"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Isolated island culture; a quiet observer that evolved independently",
+        "N_reason": "Unique ecosystem thinking; uniqueness of 90% endemic species",
+        "T_reason": "Natural logic of ecosystems; independent development path",
+        "P_reason": "Flexible adaptation to a unique environment; randomness of natural evolution"
+      },
+      "justification": "An isolated and unique thinker, a strange world where 90% of species are endemic, exploring a unique path through nature."
+    },
+    {
+      "id": "480",
+      "iso_a3": "MUS",
+      "name_en": "Mauritius",
+      "mbti": "ENFJ",
+      "confidence": 3,
+      "sources": [
+        "Limited Hofstede data; inferred from Indian Ocean cultural sphere",
+        "Governance: Parliamentary republic, a multicultural economic miracle",
+        "Cultural consensus: A model of multicultural coexistence, African economic miracle, paradise island nation"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Active multicultural social life; warm and friendly; internationalized",
+        "N_reason": "Innovative vision from multicultural fusion; strategic foresight in economic transformation",
+        "F_reason": "Harmonious multicultural coexistence; interpersonal care",
+        "J_reason": "Well-established institutions; effective economic planning"
+      },
+      "justification": "A model of multicultural harmony, an African economic miracle."
+    },
+    {
+      "id": "516",
+      "iso_a3": "NAM",
+      "name_en": "Namibia",
+      "mbti": "ISTP",
+      "confidence": 3,
+      "sources": [
+        "Limited Hofstede data; inferred from Southern African cultural sphere",
+        "Governance: Presidential republic, peaceful independence, stable democracy",
+        "Cultural consensus: Desert loner, one of the world's lowest population densities, a stargazing paradise"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Solitude in the vast desert; quiet life with low population density",
+        "S_reason": "Practical desert survival skills; focus on the concrete environment",
+        "T_reason": "Independent and pragmatic judgment; survival rationality",
+        "P_reason": "Flexible adaptation to extreme natural environments"
+      },
+      "justification": "A lone traveler in the desert, self-sufficient, a pragmatist coexisting with a harsh environment."
+    },
+    {
+      "id": "072",
+      "iso_a3": "BWA",
+      "name_en": "Botswana",
+      "mbti": "INTJ",
+      "confidence": 4,
+      "sources": [
+        "Limited Hofstede data; inferred from governance style",
+        "Governance: Parliamentary republic, exemplary diamond economy management, African governance benchmark",
+        "Cultural consensus: One of the best-governed countries in Africa, diamonds converted into education and healthcare, rational planning"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Low-key and pragmatic international image; a quiet African star",
+        "N_reason": "Strategic vision in converting diamond revenue into long-term development",
+        "T_reason": "Rational governance; transparent and efficient resource management",
+        "J_reason": "Well-established institutions; long-term planning orientation"
+      },
+      "justification": "One of the best-governed countries in Africa, with well-managed diamond economy and rational planning."
+    },
+    {
+      "id": "646",
+      "iso_a3": "RWA",
+      "name_en": "Rwanda",
+      "mbti": "ENTJ",
+      "confidence": 5,
+      "sources": [
+        "Limited Hofstede data; inferred from governance style and cultural observation",
+        "Governance: Presidential republic, strong leadership + outstanding execution, the Singapore of Africa",
+        "Cultural consensus: Risen from tragedy, the cleanest country in Africa, a digital governance pioneer"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Active international engagement; proactive investment attraction; outward development strategy",
+        "N_reason": "Forward-looking development planning (Vision 2050); digital transformation vision",
+        "T_reason": "Rational governance; performance-oriented; strong institutional execution",
+        "J_reason": "Powerful planning and execution; orderly; highly disciplined"
+      },
+      "justification": "A strategist risen from tragedy, rebuilt the nation with powerful execution, the Singapore of Africa."
+    },
+    {
+      "id": "398",
+      "iso_a3": "KAZ",
+      "name_en": "Kazakhstan",
+      "mbti": "ISTP",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: PDI=78 (high power distance), UAI=70 (high uncertainty avoidance), LTO=60 (medium-high long-term orientation)",
+        "Governance: Presidential republic, oil economy + space launch facility",
+        "Cultural consensus: Central Asia's largest country, nomadic tradition alongside modernization, pragmatic and independent"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Tradition of solitude on the vast steppe; pragmatic and low-key",
+        "S_reason": "Pragmatic nomadic and oil economy; focus on concrete results",
+        "T_reason": "Resource-driven rational management; independent judgment",
+        "P_reason": "Flexible adaptation of nomadic culture; economic diversification strategy"
+      },
+      "justification": "The largest country in Central Asia, where nomadic traditions coexist with modernization, independent and pragmatic."
+    },
+    {
+      "id": "860",
+      "iso_a3": "UZB",
+      "name_en": "Uzbekistan",
+      "mbti": "ISTJ",
+      "confidence": 3,
+      "sources": [
+        "Hofstede dimensions: PDI=82, IDV=18, MAS=45, UAI=75, LTO=55, IVR=30",
+        "Low individualism (18), collectivist culture, group-centered social life (I)",
+        "Cultural consensus: Guardian of the Silk Road, with exquisite traditional craftsmanship, valuing both order and tradition."
+      ],
+      "dimension_analysis": {
+        "I_reason": "Introverted tendency inferred from cultural characteristics",
+        "S_reason": "Sensing tendency inferred from cultural characteristics",
+        "T_reason": "Thinking tendency inferred from cultural characteristics",
+        "J_reason": "Judging tendency inferred from cultural characteristics"
+      },
+      "justification": "Guardian of the Silk Road, with exquisite traditional craftsmanship, valuing both order and tradition."
+    },
+    {
+      "id": "795",
+      "iso_a3": "TKM",
+      "name_en": "Turkmenistan",
+      "mbti": "ISTJ",
+      "confidence": 3,
+      "sources": [
+        "Hofstede dimensions: PDI=85, IDV=18, MAS=48, UAI=78, LTO=55, IVR=25",
+        "Low individualism (18), collectivist culture, group-centered social life (I)",
+        "Cultural consensus: The most mysterious country in Central Asia, with strict order and deeply rooted traditional values."
+      ],
+      "dimension_analysis": {
+        "I_reason": "Introverted tendency inferred from cultural characteristics",
+        "S_reason": "Sensing tendency inferred from cultural characteristics",
+        "T_reason": "Thinking tendency inferred from cultural characteristics",
+        "J_reason": "Judging tendency inferred from cultural characteristics"
+      },
+      "justification": "The most mysterious country in Central Asia, with strict order and deeply rooted traditional values."
+    },
+    {
+      "id": "417",
+      "iso_a3": "KGZ",
+      "name_en": "Kyrgyzstan",
+      "mbti": "INTP",
+      "confidence": 3,
+      "sources": [
+        "Hofstede: LTO=66 (medium-high long-term orientation), PDI=80 (high power distance), UAI=70 (high uncertainty avoidance)",
+        "Governance: Parliamentary republic, the most democratic country in Central Asia",
+        "Cultural consensus: The Switzerland of Central Asia, well-preserved nomadic culture, free-thinking mountain people"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Solitude and contemplation in mountain nomadic culture; quiet closeness to nature",
+        "N_reason": "Broad perspective of nomadic culture; epic literary tradition (Manas)",
+        "T_reason": "Rational judgment for mountain survival; independent thinking",
+        "P_reason": "Flexibility of nomadic life; Central Asia's most democratic political experiment"
+      },
+      "justification": "A quiet thinker in Central Asia, a free spirit of nomadic culture, maintaining independent thinking in the mountains."
+    },
+    {
+      "id": "762",
+      "iso_a3": "TJK",
+      "name_en": "Tajikistan",
+      "mbti": "ISFJ",
+      "confidence": 3,
+      "sources": [
+        "Hofstede dimensions: PDI=85, IDV=15, MAS=40, UAI=80, LTO=50, IVR=25",
+        "Low individualism (15), collectivist culture, group-centered social life (I)",
+        "Cultural consensus: A resilient guardian of the Pamir Plateau, with deep traditional culture, humble and warm."
+      ],
+      "dimension_analysis": {
+        "I_reason": "Introverted tendency inferred from cultural characteristics",
+        "S_reason": "Sensing tendency inferred from cultural characteristics",
+        "F_reason": "Feeling tendency inferred from cultural characteristics",
+        "J_reason": "Judging tendency inferred from cultural characteristics"
+      },
+      "justification": "A resilient guardian of the Pamir Plateau, with deep traditional culture, humble and warm."
+    },
+    {
+      "id": "268",
+      "iso_a3": "GEO",
+      "name_en": "Georgia",
+      "mbti": "ENFJ",
+      "confidence": 3,
+      "sources": [
+        "Hofstede dimensions: PDI=65, IDV=35, MAS=45, UAI=70, LTO=38, IVR=32",
+        "Medium individualism (35), coexistence of individual and collective values (I)",
+        "Cultural consensus: The warm host of the Caucasus, birthplace of wine, hospitality is in the national DNA."
+      ],
+      "dimension_analysis": {
+        "E_reason": "Extraverted tendency inferred from cultural characteristics",
+        "N_reason": "Intuitive tendency inferred from cultural characteristics",
+        "F_reason": "Feeling tendency inferred from cultural characteristics",
+        "J_reason": "Judging tendency inferred from cultural characteristics"
+      },
+      "justification": "The warm host of the Caucasus, birthplace of wine, hospitality is in the national DNA."
+    },
+    {
+      "id": "051",
+      "iso_a3": "ARM",
+      "name_en": "Armenia",
+      "mbti": "INFJ",
+      "confidence": 3,
+      "sources": [
+        "Hofstede dimensions: PDI=75, IDV=30, MAS=45, UAI=80, LTO=61, IVR=25",
+        "Medium individualism (30), coexistence of individual and collective values (I)",
+        "Cultural consensus: The deep soul of an ancient civilization, the first Christian nation, maintaining faith through suffering."
+      ],
+      "dimension_analysis": {
+        "I_reason": "Introverted tendency inferred from cultural characteristics",
+        "N_reason": "Intuitive tendency inferred from cultural characteristics",
+        "F_reason": "Feeling tendency inferred from cultural characteristics",
+        "J_reason": "Judging tendency inferred from cultural characteristics"
+      },
+      "justification": "The deep soul of an ancient civilization, the first Christian nation, maintaining faith through suffering."
+    },
+    {
+      "id": "031",
+      "iso_a3": "AZE",
+      "name_en": "Azerbaijan",
+      "mbti": "ESTP",
+      "confidence": 3,
+      "sources": [
+        "Hofstede dimensions: PDI=78, IDV=25, MAS=55, UAI=75, LTO=61, IVR=22",
+        "Low individualism (25), collectivist culture, group-centered social life (I)",
+        "Cultural consensus: The Land of Fire, an energy-driven doer, an adventurer at the crossroads of East and West."
+      ],
+      "dimension_analysis": {
+        "E_reason": "Extraverted tendency inferred from cultural characteristics",
+        "S_reason": "Sensing tendency inferred from cultural characteristics",
+        "T_reason": "Thinking tendency inferred from cultural characteristics",
+        "P_reason": "Perceiving tendency inferred from cultural characteristics"
+      },
+      "justification": "The Land of Fire, an energy-driven doer, an adventurer at the crossroads of East and West."
+    },
+    {
+      "id": "804",
+      "iso_a3": "UKR",
+      "name_en": "Ukraine",
+      "mbti": "ISTP",
+      "confidence": 5,
+      "sources": [
+        "Hofstede: LTO=86 (high long-term orientation), UAI=90 (high uncertainty avoidance), PDI=85 (high power distance)",
+        "Governance: Semi-presidential republic, post-independence democratization process",
+        "Cultural consensus: A tough and pragmatic hardcore nation, prolific IT talent, demonstrating independence and action in battle"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Reserved and resilient; pragmatic and low-key; actions speak louder than words",
+        "S_reason": "Pragmatic and action-oriented; values concrete results and hands-on work",
+        "T_reason": "Hardcore rationality; IT tech talent; pragmatic decision-making",
+        "P_reason": "Exceptional adaptability and flexibility; innovating through adversity"
+      },
+      "justification": "A tough and pragmatic hardcore nation, demonstrating remarkable independence and action in adversity."
+    },
+    {
+      "id": "112",
+      "iso_a3": "BLR",
+      "name_en": "Belarus",
+      "mbti": "ISTJ",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: PDI=90 (high power distance), UAI=90 (high uncertainty avoidance), LTO=81 (high long-term orientation)",
+        "Governance: Presidential republic, Soviet-style governance legacy",
+        "Cultural consensus: Europe's last Soviet-style country, order and tradition above all, low-key and quiet"
+      ],
+      "dimension_analysis": {
+        "I_reason": "High power distance (PDI=90); reserved and low-key; conservative and cautious",
+        "S_reason": "Traditional and pragmatic; focus on concrete order and practical operations",
+        "T_reason": "Rational institutionalized management; pragmatic decision-making",
+        "J_reason": "Very high uncertainty avoidance (UAI=90); strict order; rules above all"
+      },
+      "justification": "Europe's last Soviet-style country, order and tradition above all."
+    },
+    {
+      "id": "440",
+      "iso_a3": "LTU",
+      "name_en": "Lithuania",
+      "mbti": "INTJ",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: LTO=82 (high long-term orientation), UAI=65 (medium-high uncertainty avoidance), IDV=60 (medium-high individualism)",
+        "Governance: Semi-presidential republic, EU and NATO member",
+        "Cultural consensus: Leading in laser technology, basketball-obsessed, rational and independent, historic Grand Duchy"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Reserved and independent character; tradition of deep thinking",
+        "N_reason": "High long-term orientation (LTO=82); laser technology innovation; strategic thinking",
+        "T_reason": "Low masculinity (MAS=19) but strong technological rationality; independent judgment",
+        "J_reason": "Medium-high uncertainty avoidance (UAI=65); planning-oriented; organizationally rigorous"
+      },
+      "justification": "The largest Baltic state, a world leader in laser technology, rational and independent."
+    },
+    {
+      "id": "428",
+      "iso_a3": "LVA",
+      "name_en": "Latvia",
+      "mbti": "INFP",
+      "confidence": 3,
+      "sources": [
+        "Hofstede: IDV=70 (high individualism), MAS=9 (one of the world's lowest masculinity scores), LTO=69 (high long-term orientation)",
+        "Governance: Parliamentary republic, EU and NATO member",
+        "Cultural consensus: A romanticist of the Singing Revolution, fighting for freedom through music, Art Nouveau architecture"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Nordic-style quiet reserve; introspective cultural tradition",
+        "N_reason": "Idealism of the Singing Revolution; artistic creativity; Art Nouveau architectural aesthetics",
+        "F_reason": "Extremely low masculinity (MAS=9); emotional expression through music; cooperative and caring",
+        "P_reason": "Flexible adaptation as a historical tradition; creative response to challenges"
+      },
+      "justification": "A romanticist of the Singing Revolution, fighting for freedom through music."
+    },
+    {
+      "id": "233",
+      "iso_a3": "EST",
+      "name_en": "Estonia",
+      "mbti": "INTP",
+      "confidence": 5,
+      "sources": [
+        "Hofstede: LTO=82 (high long-term orientation), IDV=60 (medium-high individualism), UAI=60 (medium uncertainty avoidance)",
+        "Governance: Parliamentary republic, a pioneer in digital governance",
+        "Cultural consensus: Digital pioneer (e-Residency), birthplace of Skype, a quiet tech geek"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Nordic-style quiet reserve; social distance culture",
+        "N_reason": "Digital innovation pioneer; forward-looking tech policies; abstract systems thinking",
+        "T_reason": "Technology and rationality-oriented; data-driven decisions; engineer mindset",
+        "P_reason": "Medium uncertainty avoidance (UAI=60); flexible innovation; experimental spirit"
+      },
+      "justification": "A digital pioneer, birthplace of Skype, a quiet geek changing the world through technology."
+    },
+    {
+      "id": "499",
+      "iso_a3": "MNE",
+      "name_en": "Montenegro",
+      "mbti": "INTP",
+      "confidence": 3,
+      "sources": [
+        "Hofstede: LTO=75 (high long-term orientation), UAI=85 (high uncertainty avoidance), PDI=82 (high power distance)",
+        "Governance: Parliamentary republic, one of the youngest independent nations in the Balkans",
+        "Cultural consensus: A hidden gem-like low-key independent nation, a thinker between mountains and sea"
+      ],
+      "dimension_analysis": {
+        "I_reason": "A quiet and low-key small country; independent and reserved; mountain culture solitude",
+        "N_reason": "High long-term orientation (LTO=75); strategic independence decisions",
+        "T_reason": "Independent and pragmatic judgment; rational national positioning",
+        "P_reason": "Flexible adaptation to Balkan changes; small-country agility"
+      },
+      "justification": "A quiet thinker of the Balkans, independently low-key between mountains and sea, a hidden gem."
+    },
+    {
+      "id": "688",
+      "iso_a3": "SRB",
+      "name_en": "Serbia",
+      "mbti": "ESTP",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: UAI=92 (high uncertainty avoidance), PDI=86 (high power distance), IVR=28 (low indulgence)",
+        "Governance: Parliamentary republic, EU candidate country",
+        "Cultural consensus: Balkan tough guy, incredible sports talent (Djokovic), direct and straightforward, rakija spirit"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Direct and frank communication style; socially enthusiastic; outgoing in competitive sports",
+        "S_reason": "Pragmatic and action-oriented; values concrete results",
+        "T_reason": "Hardcore rationality; competition-oriented; direct and frank",
+        "P_reason": "Flexible survival wisdom; strong adaptability (despite high UAI data)"
+      },
+      "justification": "A Balkan tough guy, bursting with athletic talent, a straight-talking doer."
+    },
+    {
+      "id": "070",
+      "iso_a3": "BIH",
+      "name_en": "Bosnia and Herzegovina",
+      "mbti": "ENFJ",
+      "confidence": 3,
+      "sources": [
+        "Hofstede dimensions: PDI=80, IDV=28, MAS=40, UAI=87, LTO=70, IVR=44",
+        "Low individualism (28), collectivist culture, group-centered social life (I)",
+        "Cultural consensus: A bridge for multi-ethnic coexistence, a leader seeking harmony amid complexity."
+      ],
+      "dimension_analysis": {
+        "E_reason": "Extraverted tendency inferred from cultural characteristics",
+        "N_reason": "Intuitive tendency inferred from cultural characteristics",
+        "F_reason": "Feeling tendency inferred from cultural characteristics",
+        "J_reason": "Judging tendency inferred from cultural characteristics"
+      },
+      "justification": "A bridge for multi-ethnic coexistence, a leader seeking harmony amid complexity."
+    },
+    {
+      "id": "191",
+      "iso_a3": "HRV",
+      "name_en": "Croatia",
+      "mbti": "ESTP",
+      "confidence": 3,
+      "sources": [
+        "Hofstede: UAI=80 (high uncertainty avoidance), PDI=73 (high power distance), MAS=40 (low masculinity)",
+        "Governance: Parliamentary republic, EU member state",
+        "Cultural consensus: An Adriatic coast adventurer, Game of Thrones filming location, football miracle"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Mediterranean social culture; active tourism interaction; outgoing and enthusiastic",
+        "S_reason": "Pragmatic and action-oriented; concrete experiences of maritime culture",
+        "T_reason": "Competitive sports spirit (World Cup runner-up with 4 million people); pragmatic decisions",
+        "P_reason": "Flexible attitude toward life; Mediterranean easygoing nature"
+      },
+      "justification": "An adventurer on the Adriatic coast, excelling in both football and tourism."
+    },
+    {
+      "id": "705",
+      "iso_a3": "SVN",
+      "name_en": "Slovenia",
+      "mbti": "INTP",
+      "confidence": 3,
+      "sources": [
+        "Hofstede: UAI=88 (high uncertainty avoidance), PDI=71 (high power distance), MAS=19 (low masculinity)",
+        "Governance: Parliamentary republic, EU member state, green development",
+        "Cultural consensus: An eco-pioneer at the junction of the Alps and the Mediterranean, small but refined"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Quiet and low-key European hidden gem; reserved international image",
+        "N_reason": "Innovative environmental thinking; green development philosophy; forward-looking policies",
+        "T_reason": "Low masculinity but rational environmental policymaking; systematic thinking",
+        "P_reason": "Flexible small-country strategy; strong adaptability"
+      },
+      "justification": "A quiet innovator at the crossroads of the Alps and the Mediterranean, a green pioneer, small but exquisite."
+    },
+    {
+      "id": "807",
+      "iso_a3": "MKD",
+      "name_en": "North Macedonia",
+      "mbti": "ESFJ",
+      "confidence": 3,
+      "sources": [
+        "Hofstede dimensions: PDI=78, IDV=28, MAS=42, UAI=82, LTO=62, IVR=35",
+        "Low individualism (28), collectivist culture, group-centered social life (I)",
+        "Cultural consensus: A warm neighbor of the Balkans, with close community ties and a deep tradition of hospitality."
+      ],
+      "dimension_analysis": {
+        "E_reason": "Extraverted tendency inferred from cultural characteristics",
+        "S_reason": "Sensing tendency inferred from cultural characteristics",
+        "F_reason": "Feeling tendency inferred from cultural characteristics",
+        "J_reason": "Judging tendency inferred from cultural characteristics"
+      },
+      "justification": "A warm neighbor of the Balkans, with close community ties and a deep tradition of hospitality."
+    },
+    {
+      "id": "008",
+      "iso_a3": "ALB",
+      "name_en": "Albania",
+      "mbti": "ESTP",
+      "confidence": 3,
+      "sources": [
+        "Limited Hofstede data; inferred from cultural observation",
+        "Governance: Parliamentary republic, EU candidate country",
+        "Cultural consensus: A rising Balkan star, highly energetic, a beach paradise being discovered"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Warm and hospitable social culture; outgoing and direct",
+        "S_reason": "Pragmatic and action-oriented; concrete experience-oriented",
+        "T_reason": "Survival wisdom; pragmatic decision-making",
+        "P_reason": "Strong flexibility and adaptability; opportunism amid rapid change"
+      },
+      "justification": "A rising Balkan adventurer, full of energy, Europe's last hidden gem being discovered."
+    },
+    {
+      "id": "196",
+      "iso_a3": "CYP",
+      "name_en": "Cyprus",
+      "mbti": "ESFJ",
+      "confidence": 3,
+      "sources": [
+        "Hofstede dimensions: PDI=55, IDV=45, MAS=50, UAI=70, LTO=45, IVR=70",
+        "Medium individualism (45), coexistence of individual and collective values (E)",
+        "Cultural consensus: A social island in the Mediterranean, where Greek and Turkish cultures blend, warm and hospitable."
+      ],
+      "dimension_analysis": {
+        "E_reason": "Extraverted tendency inferred from cultural characteristics",
+        "S_reason": "Sensing tendency inferred from cultural characteristics",
+        "F_reason": "Feeling tendency inferred from cultural characteristics",
+        "J_reason": "Judging tendency inferred from cultural characteristics"
+      },
+      "justification": "A social island in the Mediterranean, where Greek and Turkish cultures blend, warm and hospitable."
+    },
+    {
+      "id": "442",
+      "iso_a3": "LUX",
+      "name_en": "Luxembourg",
+      "mbti": "INTJ",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: LTO=64 (medium-high long-term orientation), IDV=60 (medium-high individualism), MAS=50 (medium masculinity)",
+        "Governance: Parliamentary monarchy, European financial center, multilingual society",
+        "Cultural consensus: Small country with great wisdom, highest GDP per capita globally, a low-key and rational strategist"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Low-key and reserved international image; small and refined elite society",
+        "N_reason": "Strategic financial positioning; cross-cultural thinking through multilingualism",
+        "T_reason": "Rational decision-making in finance; elite governance",
+        "J_reason": "Medium-high uncertainty avoidance (UAI=70); rigorous institutions; strong planning orientation"
+      },
+      "justification": "Small country, great wisdom; a European financial center and a low-key, rational strategist."
+    },
+    {
+      "id": "470",
+      "iso_a3": "MLT",
+      "name_en": "Malta",
+      "mbti": "ESFJ",
+      "confidence": 3,
+      "sources": [
+        "Hofstede dimensions: PDI=56, IDV=59, MAS=47, UAI=96, LTO=47, IVR=66",
+        "Medium individualism (59), coexistence of individual and collective values (E)",
+        "Cultural consensus: A social butterfly in the heart of the Mediterranean, with deep history and a warm, hospitable island nation."
+      ],
+      "dimension_analysis": {
+        "E_reason": "Extraverted tendency inferred from cultural characteristics",
+        "S_reason": "Sensing tendency inferred from cultural characteristics",
+        "F_reason": "Feeling tendency inferred from cultural characteristics",
+        "J_reason": "Judging tendency inferred from cultural characteristics"
+      },
+      "justification": "A social butterfly in the heart of the Mediterranean, with deep history and a warm, hospitable island nation."
+    },
+    {
+      "id": "512",
+      "iso_a3": "OMN",
+      "name_en": "Oman",
+      "mbti": "ISFJ",
+      "confidence": 3,
+      "sources": [
+        "Hofstede dimensions: PDI=78, IDV=30, MAS=50, UAI=65, LTO=30, IVR=40",
+        "Medium individualism (30), coexistence of individual and collective values (I)",
+        "Cultural consensus: The quietest country on the Arabian Peninsula, where tradition and modernity coexist harmoniously."
+      ],
+      "dimension_analysis": {
+        "I_reason": "Introverted tendency inferred from cultural characteristics",
+        "S_reason": "Sensing tendency inferred from cultural characteristics",
+        "F_reason": "Feeling tendency inferred from cultural characteristics",
+        "J_reason": "Judging tendency inferred from cultural characteristics"
+      },
+      "justification": "The quietest country on the Arabian Peninsula, where tradition and modernity coexist harmoniously."
+    },
+    {
+      "id": "634",
+      "iso_a3": "QAT",
+      "name_en": "Qatar",
+      "mbti": "ENTJ",
+      "confidence": 4,
+      "sources": [
+        "Limited Hofstede data; inferred from governance style",
+        "Governance: Absolute monarchy, natural gas wealth supporting global positioning",
+        "Cultural consensus: Small country with big ambitions, World Cup host, Al Jazeera, global strategic positioning"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Active international engagement and global positioning; diplomatically active",
+        "N_reason": "Forward-looking strategic planning; sports diplomacy; building media influence",
+        "T_reason": "Strategic rational decision-making; high efficiency in resource allocation",
+        "J_reason": "Powerful planning and execution; goal-oriented; organizationally rigorous"
+      },
+      "justification": "A strategist with big ambitions in a small country, leveraging natural gas wealth for global positioning."
+    },
+    {
+      "id": "048",
+      "iso_a3": "BHR",
+      "name_en": "Bahrain",
+      "mbti": "ENTP",
+      "confidence": 3,
+      "sources": [
+        "Limited Hofstede data; inferred from governance style",
+        "Governance: Constitutional monarchy, one of the most open countries in the Middle East",
+        "Cultural consensus: An innovative island in the Persian Gulf, F1 circuit, Pearl Nation transformed into a financial hub"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Open international exchange; active financial and business social life",
+        "N_reason": "Economic transformation and innovation; strategic shift from pearls to finance",
+        "T_reason": "Rational business decision-making; positioning as a financial center",
+        "P_reason": "Flexible economic diversification strategy; open experimentation"
+      },
+      "justification": "An innovative small island in the Persian Gulf, one of the most open countries in the Middle East."
+    },
+    {
+      "id": "414",
+      "iso_a3": "KWT",
+      "name_en": "Kuwait",
+      "mbti": "ESTJ",
+      "confidence": 4,
+      "sources": [
+        "Hofstede: PDI=80 (high power distance), MAS=53 (medium masculinity), UAI=68 (medium-high uncertainty avoidance)",
+        "Governance: Constitutional monarchy (emirate), oil economy + parliamentary politics",
+        "Cultural consensus: A pragmatic manager of an oil-rich nation, valuing order and tradition"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Active business and social life; hospitable culture; outgoing international engagement",
+        "S_reason": "Pragmatic oil economy management; focus on concrete material development",
+        "T_reason": "Authoritative rational decision-making; pragmatic economic management",
+        "J_reason": "High power distance (PDI=80); traditional order above all; planning and management"
+      },
+      "justification": "A pragmatic manager of an oil-rich nation, valuing order and tradition."
+    },
+    {
+      "id": "887",
+      "iso_a3": "YEM",
+      "name_en": "Yemen",
+      "mbti": "ISFJ",
+      "confidence": 3,
+      "sources": [
+        "Hofstede cultural dimensions: PDI=85, IDV=20, MAS=50, UAI=70, LTO=15, IVR=20",
+        "Low individualism (20), collectivist culture, socially group-centered (I)",
+        "Cultural consensus: One of the oldest civilizations on the Arabian Peninsula, with deeply rooted traditional values."
+      ],
+      "dimension_analysis": {
+        "I_reason": "Introversion inferred from cultural characteristics",
+        "S_reason": "Sensing inferred from cultural characteristics",
+        "F_reason": "Feeling inferred from cultural characteristics",
+        "J_reason": "Judging inferred from cultural characteristics"
+      },
+      "justification": "One of the oldest civilizations on the Arabian Peninsula, with deeply rooted traditional values."
+    },
+    {
+      "id": "524",
+      "iso_a3": "NPL",
+      "name_en": "Nepal",
+      "mbti": "INFP",
+      "confidence": 3,
+      "sources": [
+        "Hofstede cultural dimensions: PDI=75, IDV=20, MAS=40, UAI=55, LTO=45, IVR=30",
+        "Low individualism (20), collectivist culture, socially group-centered (I)",
+        "Cultural consensus: The idealist of the Himalayas, where spiritual practice and nature coexist in harmony."
+      ],
+      "dimension_analysis": {
+        "I_reason": "Introversion inferred from cultural characteristics",
+        "N_reason": "Intuition inferred from cultural characteristics",
+        "F_reason": "Feeling inferred from cultural characteristics",
+        "P_reason": "Perceiving inferred from cultural characteristics"
+      },
+      "justification": "The idealist of the Himalayas, where spiritual practice and nature coexist in harmony."
+    },
+    {
+      "id": "144",
+      "iso_a3": "LKA",
+      "name_en": "Sri Lanka",
+      "mbti": "ENFJ",
+      "confidence": 3,
+      "sources": [
+        "Hofstede cultural dimensions: PDI=75, IDV=30, MAS=45, UAI=55, LTO=45, IVR=35",
+        "Moderate individualism (30), individual and collective values coexist (I)",
+        "Cultural consensus: The teardrop of the Indian Ocean, a melting pot of diverse cultures, warm and hospitable."
+      ],
+      "dimension_analysis": {
+        "E_reason": "Extraversion inferred from cultural characteristics",
+        "N_reason": "Intuition inferred from cultural characteristics",
+        "F_reason": "Feeling inferred from cultural characteristics",
+        "J_reason": "Judging inferred from cultural characteristics"
+      },
+      "justification": "The teardrop of the Indian Ocean, a melting pot of diverse cultures, warm and hospitable."
+    },
+    {
+      "id": "064",
+      "iso_a3": "BTN",
+      "name_en": "Bhutan",
+      "mbti": "INFJ",
+      "confidence": 4,
+      "sources": [
+        "Limited Hofstede data, inferred from South Asian/Tibetan Buddhist cultural sphere",
+        "Governance: Constitutional monarchy, GNH (Gross National Happiness) philosophy",
+        "Cultural consensus: A philosopher nation that uses GNH instead of GDP, carbon-negative, spiritually driven"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Deep tradition of spiritual introspection; secluded tranquility",
+        "N_reason": "Forward-thinking philosophy of GNH; spiritual pursuits beyond materialism",
+        "F_reason": "Compassion-centered Buddhist culture; values happiness over competition",
+        "J_reason": "Buddhist precepts and social norms; traditional structure"
+      },
+      "justification": "The philosopher nation that replaced GDP with GNH (Gross National Happiness)."
+    },
+    {
+      "id": "462",
+      "iso_a3": "MDV",
+      "name_en": "Maldives",
+      "mbti": "ISFP",
+      "confidence": 3,
+      "sources": [
+        "Limited Hofstede data, inferred from South Asian/Indian Ocean cultural sphere",
+        "Governance: Presidential republic, tourism economy + climate crisis",
+        "Cultural consensus: A coral masterpiece in the Indian Ocean, the lowest-elevation country, honeymoon paradise"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Quiet solitude of island culture; living in symbiosis with the ocean",
+        "S_reason": "Sensory-rich natural environment; concrete ocean-based lifestyle",
+        "F_reason": "Gentle community relationships; interpersonal harmony",
+        "P_reason": "Flexibly adapting to ocean environment and climate change"
+      },
+      "justification": "A coral masterpiece in the Indian Ocean, a quiet soul living in harmony with the sea."
+    },
+    {
+      "id": "598",
+      "iso_a3": "PNG",
+      "name_en": "Papua New Guinea",
+      "mbti": "ISFP",
+      "confidence": 3,
+      "sources": [
+        "Limited Hofstede data, inferred from Oceanian cultural sphere",
+        "Governance: Parliamentary monarchy (Commonwealth), tribal self-governance",
+        "Cultural consensus: Over 800 languages (most in the world), tribal culture like a time capsule, bird paradise"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Independent, dispersed tribal culture; integrated with nature",
+        "S_reason": "Focus on concrete tribal traditions and natural living",
+        "F_reason": "Emotional bonds within tribal communities; interpersonal care",
+        "P_reason": "Flexible tribal self-governance; adapting to natural environment"
+      },
+      "justification": "The world's most linguistically diverse country, a natural artist with well-preserved tribal cultures."
+    },
+    {
+      "id": "242",
+      "iso_a3": "FJI",
+      "name_en": "Fiji",
+      "mbti": "ESFJ",
+      "confidence": 3,
+      "sources": [
+        "Hofstede cultural dimensions: PDI=60, IDV=25, MAS=40, UAI=50, LTO=25, IVR=60",
+        "Low individualism (25), collectivist culture, socially group-centered (I)",
+        "Cultural consensus: The warmest island nation in the South Pacific, where 'Bula' is the world's friendliest greeting."
+      ],
+      "dimension_analysis": {
+        "E_reason": "Extraversion inferred from cultural characteristics",
+        "S_reason": "Sensing inferred from cultural characteristics",
+        "F_reason": "Feeling inferred from cultural characteristics",
+        "J_reason": "Judging inferred from cultural characteristics"
+      },
+      "justification": "The warmest island nation in the South Pacific, where 'Bula' is the world's friendliest greeting."
+    },
+    {
+      "id": "140",
+      "iso_a3": "CAF",
+      "name_en": "Central African Republic",
+      "mbti": "ENFP",
+      "confidence": 2,
+      "sources": [
+        "Limited Hofstede data, inferred from Central African cultural sphere",
+        "Governance: Presidential republic, in transition and reconstruction",
+        "Cultural consensus: The geographic center of Africa, rich in natural heritage and cultural diversity"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Active multicultural interaction; rich social traditions",
+        "N_reason": "Rich natural and cultural imaginative space",
+        "F_reason": "Community emotional bonds; tradition of interpersonal care",
+        "P_reason": "Flexibly adapting to changing environments; survival creativity"
+      },
+      "justification": "The geographic center of Africa, rich in natural heritage and cultural diversity."
+    },
+    {
+      "id": "266",
+      "iso_a3": "GAB",
+      "name_en": "Gabon",
+      "mbti": "INTP",
+      "confidence": 3,
+      "sources": [
+        "Limited Hofstede data, inferred from governance style",
+        "Governance: Presidential republic, rich in oil and rainforest resources",
+        "Cultural consensus: Central Africa's green gem, 85% rainforest coverage, a quiet resource-rich nation"
+      ],
+      "dimension_analysis": {
+        "I_reason": "A quiet, low-key Central African nation; a thinker in the rainforest",
+        "N_reason": "Complex thinking shaped by rainforest ecosystems; emerging environmental awareness",
+        "T_reason": "Rational management of oil economy; resource-driven decision-making",
+        "P_reason": "Flexible economic strategies; adapting to global energy shifts"
+      },
+      "justification": "Central Africa's quiet thinker, a green gem with 85% rainforest coverage, contemplating in nature."
+    },
+    {
+      "id": "226",
+      "iso_a3": "GNQ",
+      "name_en": "Equatorial Guinea",
+      "mbti": "ESTP",
+      "confidence": 3,
+      "sources": [
+        "Limited Hofstede data, inferred from Central African cultural sphere",
+        "Governance: Presidential republic, oil-wealth boom",
+        "Cultural consensus: Africa's only Spanish-speaking country, an action-oriented oil-boom nation"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Outgoing social culture of the Spanish-speaking world; action-oriented",
+        "S_reason": "Pragmatic oil economy; focus on concrete material outcomes",
+        "T_reason": "Resource-driven rational decision-making",
+        "P_reason": "Flexibly responding to oil economy fluctuations"
+      },
+      "justification": "Africa's only Spanish-speaking country, an action-oriented nation enriched by oil wealth."
+    },
+    {
+      "id": "426",
+      "iso_a3": "LSO",
+      "name_en": "Lesotho",
+      "mbti": "ISTP",
+      "confidence": 3,
+      "sources": [
+        "Limited Hofstede data, inferred from Southern African cultural sphere",
+        "Governance: Parliamentary monarchy (Commonwealth), Kingdom in the Sky",
+        "Cultural consensus: Completely surrounded by South Africa, the Kingdom in the Sky, high altitude throughout, self-sufficient"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Independent solitude at high altitude; quiet and self-sufficient",
+        "S_reason": "Practical highland survival skills; concrete daily life",
+        "T_reason": "Independent pragmatic judgment; survival rationality",
+        "P_reason": "Flexibly adapting to highland environment"
+      },
+      "justification": "The Kingdom in the Sky, the country with the highest elevation throughout, self-sufficient in a harsh environment."
+    },
+    {
+      "id": "748",
+      "iso_a3": "SWZ",
+      "name_en": "Eswatini",
+      "mbti": "ESTJ",
+      "confidence": 4,
+      "sources": [
+        "Limited Hofstede data, inferred from governance style",
+        "Governance: Absolute monarchy, Africa's last autocratic monarch",
+        "Cultural consensus: Africa's last absolute monarchy, traditional order above all, Reed Dance ceremony"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Large-scale cultural events like the Reed Dance; rich social traditions",
+        "S_reason": "Traditionally pragmatic; focused on concrete rituals and traditions",
+        "T_reason": "Authoritarian decision-making model; order management",
+        "J_reason": "Strict order of absolute monarchy; traditional norms above all"
+      },
+      "justification": "Africa's last absolute monarchy, where traditional order reigns supreme."
+    },
+    {
+      "id": "324",
+      "iso_a3": "GIN",
+      "name_en": "Guinea",
+      "mbti": "ESFP",
+      "confidence": 3,
+      "sources": [
+        "Limited Hofstede data, inferred from West African cultural sphere",
+        "Governance: Military transitional government, major bauxite producer",
+        "Cultural consensus: Birthplace of the djembe drum, music is in the DNA, rich bauxite reserves"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Collective music culture of the djembe drum; rich social celebrations",
+        "S_reason": "Sensory-rich music culture; concrete traditional craftsmanship",
+        "F_reason": "Emotional expression through music; community cohesion",
+        "P_reason": "Creative flexibility of improvised music; spontaneous expression"
+      },
+      "justification": "West Africa's musical treasure, the birthplace of the djembe drum, where rhythm is life."
+    },
+    {
+      "id": "624",
+      "iso_a3": "GNB",
+      "name_en": "Guinea-Bissau",
+      "mbti": "ISFP",
+      "confidence": 2,
+      "sources": [
+        "Limited Hofstede data, inferred from West African cultural sphere",
+        "Governance: Semi-presidential republic, political instability",
+        "Cultural consensus: A quiet corner of West Africa, cashew economy, Bijagos Islands paradise"
+      ],
+      "dimension_analysis": {
+        "I_reason": "A quiet, low-key corner of West Africa; living in harmony with nature",
+        "S_reason": "Focus on concrete natural environment and traditional life",
+        "F_reason": "Harmonious community relationships; interpersonal care",
+        "P_reason": "Flexibly adapting to environmental changes"
+      },
+      "justification": "A quiet corner of West Africa, living in harmony with nature."
+    },
+    {
+      "id": "430",
+      "iso_a3": "LBR",
+      "name_en": "Liberia",
+      "mbti": "ENFP",
+      "confidence": 2,
+      "sources": [
+        "Limited Hofstede data, inferred from West African cultural sphere",
+        "Governance: Presidential republic, Africa's first republic",
+        "Cultural consensus: A nation of freedom founded by freed slaves, optimism amid reconstruction"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Outward expression of the spirit of freedom; active social culture",
+        "N_reason": "Idealistic vision of a nation founded on freedom; hope for reconstruction",
+        "F_reason": "Values of freedom and human rights; community mutual aid",
+        "P_reason": "Flexibly navigating reconstruction challenges; strong adaptability"
+      },
+      "justification": "Africa's first republic, founded on the ideal of freedom, maintaining optimism through reconstruction."
+    },
+    {
+      "id": "232",
+      "iso_a3": "ERI",
+      "name_en": "Eritrea",
+      "mbti": "ISTJ",
+      "confidence": 3,
+      "sources": [
+        "Limited Hofstede data, inferred from Northeast African cultural sphere",
+        "Governance: One-party presidential republic, strict control",
+        "Cultural consensus: A quiet guardian by the Red Sea, fiercely independent spirit, the North Korea of Africa"
+      ],
+      "dimension_analysis": {
+        "I_reason": "An isolated, closed society; quiet and reserved",
+        "S_reason": "Pragmatic survival orientation; traditional skills",
+        "T_reason": "Rational order of militarized management",
+        "J_reason": "Strict social control; order above all"
+      },
+      "justification": "A quiet guardian by the Red Sea, fiercely independent in spirit, with strict order."
+    },
+    {
+      "id": "262",
+      "iso_a3": "DJI",
+      "name_en": "Djibouti",
+      "mbti": "ESTP",
+      "confidence": 3,
+      "sources": [
+        "Limited Hofstede data, inferred from Horn of Africa cultural sphere",
+        "Governance: Presidential republic, concentration of military bases",
+        "Cultural consensus: A strategic hub on the Horn of Africa, dense military bases, extreme heat"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Frequent international military interactions; active strategic diplomacy",
+        "S_reason": "Pragmatic strategic positioning; concrete military cooperation",
+        "T_reason": "Strategic rational decision-making; geopolitical pragmatism",
+        "P_reason": "Flexible multi-party diplomatic strategy"
+      },
+      "justification": "A strategic hub on the Horn of Africa, densely packed with military bases, an action-oriented nation."
+    },
+    {
+      "id": "174",
+      "iso_a3": "COM",
+      "name_en": "Comoros",
+      "mbti": "ISFP",
+      "confidence": 2,
+      "sources": [
+        "Limited Hofstede data, inferred from Indian Ocean cultural sphere",
+        "Governance: Federal presidential republic, frequent coups",
+        "Cultural consensus: The spice islands of the Indian Ocean, a quiet nature lover, vanilla producer"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Quiet solitude of island culture; living in symbiosis with nature",
+        "S_reason": "Sensory-rich spice culture; concrete natural experiences",
+        "F_reason": "Warm community relationships; interpersonal harmony",
+        "P_reason": "Flexibly adapting to island environment and political changes"
+      },
+      "justification": "The spice islands of the Indian Ocean, a quiet nature lover."
+    },
+    {
+      "id": "270",
+      "iso_a3": "GMB",
+      "name_en": "Gambia",
+      "mbti": "ESFJ",
+      "confidence": 3,
+      "sources": [
+        "Limited Hofstede data, inferred from West African cultural sphere",
+        "Governance: Presidential republic, smallest country in West Africa",
+        "Cultural consensus: The smallest country on the African mainland, the Smiling Coast, warm and hospitable"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Warm hospitality of the Smiling Coast; rich social culture",
+        "S_reason": "Focus on concrete community life and traditions",
+        "F_reason": "Community care and spirit of hospitality; interpersonal warmth",
+        "J_reason": "Traditional social norms and community structure"
+      },
+      "justification": "The Smiling Coast, the smallest country on mainland Africa, warm and hospitable."
+    },
+    {
+      "id": "132",
+      "iso_a3": "CPV",
+      "name_en": "Cape Verde",
+      "mbti": "ENFP",
+      "confidence": 3,
+      "sources": [
+        "Limited Hofstede data, inferred from Lusophone African cultural sphere",
+        "Governance: Semi-presidential republic, a model of African democracy",
+        "Cultural consensus: A musical island nation in the Atlantic, saudade nostalgia, Creole culture"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Outward expression through music culture; rich social life",
+        "N_reason": "Romantic idealism of saudade; rich musical imagination",
+        "F_reason": "Deep emotional tradition (saudade); interpersonal warmth",
+        "P_reason": "Flexible island culture; adapting to change"
+      },
+      "justification": "A musical island nation in the Atlantic, where saudade (nostalgic longing) is the national emotion."
+    },
+    {
+      "id": "690",
+      "iso_a3": "SYC",
+      "name_en": "Seychelles",
+      "mbti": "ISFP",
+      "confidence": 3,
+      "sources": [
+        "Limited Hofstede data, inferred from Indian Ocean cultural sphere",
+        "Governance: Presidential republic, highest GDP per capita in Africa",
+        "Cultural consensus: An Eden in the Indian Ocean, at one with nature, giant tortoises and coco de mer"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Paradise-like quiet islands; at one with nature",
+        "S_reason": "Sensory-rich natural environment; concrete ecological experiences",
+        "F_reason": "Harmonious coexistence with nature; environmental awareness",
+        "P_reason": "Flexibly adapting to island environment and tourism economy"
+      },
+      "justification": "An Eden in the Indian Ocean, a masterpiece at one with nature."
+    },
+    {
+      "id": "760",
+      "iso_a3": "SYR",
+      "name_en": "Syria",
+      "mbti": "INFJ",
+      "confidence": 3,
+      "sources": [
+        "Hofstede: PDI=82 (high power distance), UAI=72 (high uncertainty avoidance), MAS=48 (moderate masculinity)",
+        "Governance: Presidential republic (amid civil war)",
+        "Cultural consensus: One of the cradles of human civilization, Damascus is one of the oldest cities, profound cultural depth"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Deep introspection from civilizational heritage; silent endurance through suffering",
+        "N_reason": "Grand vision as a birthplace of human civilization; ancient wisdom tradition",
+        "F_reason": "Moderate masculinity (MAS=48); deep humanistic concern",
+        "J_reason": "High uncertainty avoidance (UAI=72); traditional order and norms"
+      },
+      "justification": "One of the cradles of human civilization, maintaining profound cultural depth through suffering."
+    },
+    {
+      "id": "004",
+      "iso_a3": "AFG",
+      "name_en": "Afghanistan",
+      "mbti": "ISTP",
+      "confidence": 3,
+      "sources": [
+        "Limited Hofstede data, inferred from Central-South Asian cultural sphere",
+        "Governance: Islamic Emirate (Taliban), tribal system",
+        "Cultural consensus: The graveyard of empires, resilient independent survivors, Hindu Kush mountains as natural fortress"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Independent solitude of mountain culture; pragmatic and reserved",
+        "S_reason": "Practical survival skills; concrete daily life",
+        "T_reason": "Survival rationality; independent judgment; pragmatic decision-making",
+        "P_reason": "Flexibly adapting to extreme environments and political change"
+      },
+      "justification": "The graveyard of empires, a resilient and independent survivor, showing pragmatism and courage in extreme conditions."
+    },
+    {
+      "id": "044",
+      "iso_a3": "BHS",
+      "name_en": "Bahamas",
+      "mbti": "ESFP",
+      "confidence": 2,
+      "sources": [
+        "Geocultural inference: Based on regional cultural similarities, cultural traits include island culture, tourism, music, relaxation, Caribbean vibes"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Socially active; warm and hospitable; festival culture",
+        "S_reason": "Island living; sensory enjoyment; present-focused",
+        "F_reason": "Warm and friendly; community care; emotional",
+        "P_reason": "Flexible and easygoing; island rhythm; adaptable"
+      },
+      "justification": "A sunny ambassador of the Caribbean, easygoing island life where every day feels like vacation."
+    },
+    {
+      "id": "084",
+      "iso_a3": "BLZ",
+      "name_en": "Belize",
+      "mbti": "ESFP",
+      "confidence": 2,
+      "sources": [
+        "Geocultural inference: Based on regional cultural similarities, cultural traits include relaxed, diverse, nature, diving, Caribbean"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Friendly and outgoing; social; warm",
+        "S_reason": "Nature experiences; sensory; present-focused",
+        "F_reason": "Warm and friendly; community; caring",
+        "P_reason": "Flexible; 'Go Slow' culture; adaptable"
+      },
+      "justification": "Central America's ambassador of slow living, where 'Go Slow' is the national creed, a perfect blend of nature and multiculturalism."
+    },
+    {
+      "id": "090",
+      "iso_a3": "SLB",
+      "name_en": "Solomon Islands",
+      "mbti": "ISFP",
+      "confidence": 2,
+      "sources": [
+        "Geocultural inference: Based on regional cultural similarities, cultural traits include traditional, nature, tribal, peaceful, oceanic"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Quiet and reserved; small communities; independent",
+        "S_reason": "Natural living; traditional skills; practical",
+        "F_reason": "Community harmony; caring; traditional values",
+        "P_reason": "Flexible; adapting to nature; easygoing"
+      },
+      "justification": "A tranquil corner of the South Pacific, where traditional tribal culture and ocean life interweave, quiet and self-sufficient."
+    },
+    {
+      "id": "096",
+      "iso_a3": "BRN",
+      "name_en": "Brunei",
+      "mbti": "ISFJ",
+      "confidence": 2,
+      "sources": [
+        "Geocultural inference: Based on regional cultural similarities, cultural traits include wealthy, low-key, Islamic, peaceful, traditional"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Low-key and quiet; small nation; reserved",
+        "S_reason": "Tradition-oriented; pragmatic; stable",
+        "F_reason": "Pursuit of harmony; community care; gentle",
+        "J_reason": "Religious norms; traditional order; stable"
+      },
+      "justification": "Southeast Asia's quietly wealthy nation, pious and peaceful beneath its oil riches, so quiet it seems invisible."
+    },
+    {
+      "id": "204",
+      "iso_a3": "BEN",
+      "name_en": "Benin",
+      "mbti": "ENFJ",
+      "confidence": 2,
+      "sources": [
+        "Geocultural inference: Based on regional cultural similarities, cultural traits include Vodou, friendly, traditional, music, democracy"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Socially active; warm; collective",
+        "N_reason": "Spiritual traditions; Vodou; philosophical",
+        "F_reason": "Community care; harmony; warm",
+        "J_reason": "Traditional rituals; social structure; order"
+      },
+      "justification": "A spiritual and cultural hub of West Africa, the birthplace of Vodou, warm and friendly yet enigmatic."
+    },
+    {
+      "id": "328",
+      "iso_a3": "GUY",
+      "name_en": "Guyana",
+      "mbti": "ESFP",
+      "confidence": 2,
+      "sources": [
+        "Geocultural inference: Based on regional cultural similarities, cultural traits include diverse, nature, cricket, resilience, Caribbean"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Socially active; warm; multicultural exchange",
+        "S_reason": "Natural living; pragmatic; experiential",
+        "F_reason": "Community care; family; warm",
+        "P_reason": "Flexible; adaptable; easygoing"
+      },
+      "justification": "South America's gateway to the Caribbean, where diverse cultures blend in the tropical rainforest, friendly and vibrant."
+    },
+    {
+      "id": "478",
+      "iso_a3": "MRT",
+      "name_en": "Mauritania",
+      "mbti": "ISTJ",
+      "confidence": 2,
+      "sources": [
+        "Geocultural inference: Based on regional cultural similarities, cultural traits include desert, traditional, nomadic, Islamic, resilience"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Desert reserve; quiet; independent",
+        "S_reason": "Traditional living; pragmatic; experiential",
+        "T_reason": "Calm and rational; pragmatic; direct",
+        "J_reason": "Religious norms; traditional order; structured"
+      },
+      "justification": "The silent sentinel of the Sahara, where nomadic and Islamic traditions interweave, guarding order and faith in the desert."
+    },
+    {
+      "id": "548",
+      "iso_a3": "VUT",
+      "name_en": "Vanuatu",
+      "mbti": "ESFP",
+      "confidence": 2,
+      "sources": [
+        "Geocultural inference: Based on regional cultural similarities, cultural traits include happiness, traditional, nature, kastom, friendly"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Active communities; friendly; collective rituals",
+        "S_reason": "Natural living; traditional; sensory",
+        "F_reason": "Community care; harmony; warm",
+        "P_reason": "Flexible; adaptable; natural rhythm"
+      },
+      "justification": "The happiest nation in the South Pacific, with well-preserved kastom traditional culture, the birthplace of bungee jumping."
+    },
+    {
+      "id": "626",
+      "iso_a3": "TLS",
+      "name_en": "Timor-Leste",
+      "mbti": "ISFP",
+      "confidence": 2,
+      "sources": [
+        "Geocultural inference: Based on regional cultural similarities, cultural traits include resilience, traditional, Catholic, nature, emerging nation"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Quiet and reserved; traditional; independent",
+        "S_reason": "Natural living; traditional; practical",
+        "F_reason": "Community care; religious; harmonious",
+        "P_reason": "Flexibly adaptable; resilient; emerging"
+      },
+      "justification": "The youngest nation in Southeast Asia, reborn through suffering, displaying remarkable resilience and serenity."
+    },
+    {
+      "id": "740",
+      "iso_a3": "SUR",
+      "name_en": "Suriname",
+      "mbti": "ESFP",
+      "confidence": 2,
+      "sources": [
+        "Geocultural inference: Based on regional cultural similarities, cultural traits include multicultural, tropical, friendly, music, nature"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Multicultural socializing; warm; friendly",
+        "S_reason": "Natural living; sensory; pragmatic",
+        "F_reason": "Multicultural harmony; community; warm",
+        "P_reason": "Flexible; adaptable; easygoing"
+      },
+      "justification": "South America's multicultural kaleidoscope, a wonderful blend of Dutch heritage and tropical vitality."
+    },
+    {
+      "id": "010",
+      "iso_a3": "ATA",
+      "name_en": "Antarctica",
+      "mbti": "INTP",
+      "confidence": 1,
+      "sources": [
+        "Geocultural inference: No permanent residents, primarily research stations, representing the spirit of exploration and reason"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Extremely isolated environment; sparsely populated; solitary research",
+        "N_reason": "Driven by scientific exploration; frontier research base; exploring the unknown",
+        "T_reason": "Logic-driven research; data-driven decisions; rational environment",
+        "P_reason": "Extreme environment demands flexibility; open-ended research; exploratory work"
+      },
+      "justification": "The ultimate sanctuary of scientific research in extreme isolation, the definitive symbol of rational exploration and independent thought."
+    },
+    {
+      "id": "108",
+      "iso_a3": "BDI",
+      "name_en": "Burundi",
+      "mbti": "ISFJ",
+      "confidence": 2,
+      "sources": [
+        "Geocultural inference: Based on East African landlocked country cultural characteristics, traditional agricultural society"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Relatively closed inland nation; primarily rural communities; quiet and reserved",
+        "S_reason": "Agricultural tradition; pragmatic lifestyle; focused on present survival",
+        "F_reason": "Community mutual aid tradition; family-centered; collective care",
+        "J_reason": "Traditional social norms; tribal order; agricultural cycle regularity"
+      },
+      "justification": "A traditional agricultural society with deep community spirit, showing resilience and care amid hardship."
+    },
+    {
+      "id": "238",
+      "iso_a3": "FLK",
+      "name_en": "Falkland Islands",
+      "mbti": "ISTJ",
+      "confidence": 1,
+      "sources": [
+        "Geocultural inference: British overseas territory, remote island community, sheep-farming culture"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Remote and isolated; extremely small population; quiet community",
+        "S_reason": "Pragmatic sheep-farming tradition; practical lifestyle; present-focused",
+        "T_reason": "British tradition of rationality; pragmatic decision-making; self-sufficient",
+        "J_reason": "British tradition of order; regular lifestyle; community norms"
+      },
+      "justification": "A remote British island territory, a shepherd's pragmatic realm — windy and sparsely populated, yet orderly."
+    },
+    {
+      "id": "260",
+      "iso_a3": "ATF",
+      "name_en": "French Southern Territories",
+      "mbti": "INTP",
+      "confidence": 1,
+      "sources": [
+        "Geocultural inference: No permanent residents, French overseas research base"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Extremely remote; virtually uninhabited; primarily research stations",
+        "N_reason": "Scientific research oriented; ecological conservation; exploratory",
+        "T_reason": "Scientific rationality; data-driven; logical analysis",
+        "P_reason": "Research flexibility; open exploration; adapting to environment"
+      },
+      "justification": "France's Antarctic research outpost, a paradise for penguins and seals, where humans are merely visitors."
+    },
+    {
+      "id": "275",
+      "iso_a3": "PSE",
+      "name_en": "Palestine",
+      "mbti": "ENFP",
+      "confidence": 2,
+      "sources": [
+        "Geocultural inference: Based on Middle Eastern Arab cultural characteristics, spirit of tenacious resistance"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Warm and hospitable Arab tradition; rich social culture; collective action",
+        "N_reason": "Idealistic pursuit; national vision; cultural heritage and hope for the future",
+        "F_reason": "Strong emotional bonds; family above all; empathy and solidarity",
+        "P_reason": "Flexibly navigating uncertain conditions; strong adaptability; improvised creativity"
+      },
+      "justification": "A resilient idealist, maintaining passion and hope in adversity, with an exceptionally strong cultural identity."
+    },
+    {
+      "id": "304",
+      "iso_a3": "GRL",
+      "name_en": "Greenland",
+      "mbti": "ISTP",
+      "confidence": 2,
+      "sources": [
+        "Geocultural inference: Inuit culture and Danish influence, polar survival wisdom"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Vast land, sparse population; independent and self-reliant; reserved culture",
+        "S_reason": "Survival skills oriented; hunting traditions; focused on practicalities",
+        "T_reason": "Calm and pragmatic; logical survival strategies; self-sufficient",
+        "P_reason": "Adapting to extreme environment; flexible and resourceful; free and independent"
+      },
+      "justification": "A silent craftsman on the ice sheet, a perfect fusion of Inuit wisdom and Arctic survival skills."
+    },
+    {
+      "id": "498",
+      "iso_a3": "MDA",
+      "name_en": "Moldova",
+      "mbti": "ISFJ",
+      "confidence": 2,
+      "sources": [
+        "Geocultural inference: Eastern European landlocked country, wine culture, traditional agricultural society"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Reserved Eastern European style; quietly pragmatic; low-key",
+        "S_reason": "Agricultural tradition; winemaking craftsmanship; focused on practical life",
+        "F_reason": "Tradition of warm hospitality; family-centered; community care",
+        "J_reason": "Traditional lifestyle; agricultural cycle regularity; social norms"
+      },
+      "justification": "Eastern Europe's wine country, low-key and pragmatic, welcoming every guest with tradition and warmth."
+    },
+    {
+      "id": "540",
+      "iso_a3": "NCL",
+      "name_en": "New Caledonia",
+      "mbti": "ISFP",
+      "confidence": 1,
+      "sources": [
+        "Geocultural inference: French Pacific territory, blend of Melanesian and French cultures"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Relatively quiet island community; reserved traditional culture; natural living",
+        "S_reason": "Nature-oriented; traditional skills; rich sensory experiences",
+        "F_reason": "Community harmony; tribal care traditions; warm and friendly",
+        "P_reason": "Flexibly adaptable; island rhythm; naturally easygoing"
+      },
+      "justification": "A French tropical paradise in the South Pacific, a unique fusion of Melanesian tradition and French elegance."
+    },
+    {
+      "id": "630",
+      "iso_a3": "PRI",
+      "name_en": "Puerto Rico",
+      "mbti": "ESFP",
+      "confidence": 2,
+      "sources": [
+        "Geocultural inference: US territory, Latin Caribbean culture, music and passion"
+      ],
+      "dimension_analysis": {
+        "E_reason": "Passionate, outgoing Latin culture; music and dance traditions; socially active",
+        "S_reason": "Sensory enjoyment; living in the moment; beach culture; culinary traditions",
+        "F_reason": "Family above all; warm and caring; emotionally rich; community bonds",
+        "P_reason": "Flexible and spontaneous; improvised creativity; Latin rhythm; strong adaptability"
+      },
+      "justification": "The Latin gem of the Caribbean, birthplace of reggaeton, passionate to the core."
+    },
+    {
+      "id": "732",
+      "iso_a3": "ESH",
+      "name_en": "Western Sahara",
+      "mbti": "ISTP",
+      "confidence": 1,
+      "sources": [
+        "Geocultural inference: Saharan desert nomadic culture, disputed territory"
+      ],
+      "dimension_analysis": {
+        "I_reason": "Isolation of the desert environment; strong nomadic independence; quiet and reserved",
+        "S_reason": "Desert survival skills; pragmatic traditions; present-focused",
+        "T_reason": "Calm and rational; survival strategies; logical decision-making",
+        "P_reason": "Nomadic flexibility; adapting to desert changes; freedom of movement"
+      },
+      "justification": "A nomadic soul of the Sahara, displaying survival wisdom and an independent spirit in the vast desert."
+    }
+  ]
+}
