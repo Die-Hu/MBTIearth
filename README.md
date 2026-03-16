@@ -2,6 +2,8 @@
 
 **What if every country had a personality type?**
 
+![MBTI Earth 3D Globe](assets/map_2x_optimized.gif)
+
 MBTI Earth is an interactive 3D globe that playfully maps MBTI personality types onto 195+ countries. Spin the globe, click a country, and discover its imagined personality -- complete with dimension breakdowns, fun descriptions, and an AI chat companion named Atlas who knows way too much about fictional country personalities.
 
 **[Live Demo](https://die-hu.github.io/MBTIearth/)**
